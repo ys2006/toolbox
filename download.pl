@@ -81,13 +81,13 @@ while (<>) {
 		#print $value;
 
 	}
-	$cmdStr="git add version.txt";
-	$value = `/bin/bash -c "${cmdStr}"`; 
-	print ${value}."\n";
-	$cmdStr="git commit -m ver_update";
-	$value = `/bin/bash -c "${cmdStr}"`; 
-	$cmdStr="git push";
-	$value = `/bin/bash -c "${cmdStr}"`; 
+	#$cmdStr="git add version.txt";
+	#$value = `/bin/bash -c "${cmdStr}"`; 
+	#print ${value}."\n";
+	#$cmdStr="git commit -m ver_update";
+	#$value = `/bin/bash -c "${cmdStr}"`; 
+	#$cmdStr="git push";
+	#$value = `/bin/bash -c "${cmdStr}"`; 
 	print ${value}."\n";
 	if (0) {
 		#print "do do" =~ /(\w+) \1/
