@@ -15,14 +15,14 @@ close FR;
 	#print $ori_shiphome;
 
 #Get latest release version
-my $lines;
-my $line1;
-my $shiphome;
+my $lines="";
+my $line1="";
+my $shiphome="";
 my $fileName="wls_jrf_generic.jar";
 my $sshHost="\@stuya42.us.oracle.com:";
-my $stage;
-my $cwd;
-my $value;
+my $stage="";
+my $cwd="";
+my $value="";
 my $cmdStr="";
 while (<>) {
 		#get main-content section
