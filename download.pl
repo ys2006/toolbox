@@ -5,18 +5,25 @@ use utf8;
 
 undef $/;
 #Get local download version 
-my $ori_stage;
-my $ori_shiphome;
+my $ori_stage="blank";
+my $ori_shiphome="blank";
 open FR, 'version.txt' or die "open file failed : $!";
 my $row = <FR>;
 ($ori_shiphome, $ori_stage) = split(/\n:/,$row);
 close FR;
+	#print $ori_stage;
+	#print $ori_shiphome;
 
 #Get latest release version
 my $lines;
 my $line1;
 my $shiphome;
+my $fileName="wls_jrf_generic.jar";
+my $sshHost="\@stuya42.us.oracle.com:";
 my $stage;
+my $cwd;
+my $value;
+my $cmdStr="";
 while (<>) {
 		#get main-content section
 		if ($_ =~ /<div id="main-content".*?\n\s*<\/div>/gs) {
@@ -46,7 +53,8 @@ while (<>) {
 			print "path getted\n";
 			$shiphome = $&;
 			$shiphome =~ s/From Linux: //gs;
-			print $shiphome;
+			$shiphome = $shiphome."/";
+			print $shiphome."\n";
 		}
 
 	}
@@ -55,7 +63,32 @@ while (<>) {
 	print FW $stage."\n";
 	print FW $shiphome;
 	close FW;
+	#print "============================\n";
+	#print $ori_stage;
+	#print $ori_shiphome;
+	#print "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n";
+	#print $stage;
+	#print $shiphome;
+	if (($ori_stage eq $stage) and ($ori_shiphome eq $shiphome)) 
+	{
+		print "nothing to download and quit the job";
+	}
+	else 
+	{
+		print "download the latest;\n";
+		#$cmdStr = "sshpass -p ".$ENV{'sshPasswd'}." scp -o StrictHostKeyChecking=no ".$ENV{'sshUser'}.${sshHost}.${shiphome}.${fileName}." ./";
+		#$value = `/bin/bash -c "${cmdStr}"`; 
+		#print $value;
 
+	}
+	$cmdStr="git add version.txt";
+	$value = `/bin/bash -c "${cmdStr}"`; 
+	print ${value}."\n";
+	$cmdStr="git commit -m ver_update";
+	$value = `/bin/bash -c "${cmdStr}"`; 
+	$cmdStr="git push";
+	$value = `/bin/bash -c "${cmdStr}"`; 
+	print ${value}."\n";
 	if (0) {
 		#print "do do" =~ /(\w+) \1/
 		my $s = "do/ re/";
@@ -63,4 +96,3 @@ while (<>) {
 		$t =~ /(\w+\/)/;
 		print $t;
 	}
-#close FW;
