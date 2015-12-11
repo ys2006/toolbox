@@ -5,8 +5,8 @@ use utf8;
 
 undef $/;
 #Get local download version 
-my $ori_stage="blank";
-my $ori_shiphome="blank";
+my $ori_stage="";
+my $ori_shiphome="";
 open FR, 'version.txt' or die "open file failed : $!";
 my $row = <FR>;
 ($ori_shiphome, $ori_stage) = split(/\n:/,$row);
@@ -25,13 +25,15 @@ my $cwd="";
 my $value="";
 my $cmdStr="";
 while (<>) {
+		#$lines = $_."/n";
 		#get main-content section
 		if ($_ =~ /<div id="main-content".*?\n\s*<\/div>/gs) {
 			print "content exists\n";
+			print $&."\n";
 			$lines = $&;
 		}
 		#get Infra section
-		if ($lines =~ /<h[1-9] id="FMW12.2.2.0.0ShiphomeAnnouncementstoQA-Stage[1-9]InfraShiphomes\d\d\/\d\d\/\d\d".*?<h[1-9]/gs) {
+		if ($lines =~ /<h[1-9] id="FMW12.2.2.0.0ShiphomeAnnouncementstoQA-Stage[1-9]InfraShiphomes(\d+)\/(\d+)\/(\d+)".*?<h[1-9]/gs) {
 			print "matched\n";
 			$line1 = $&;
 		}
@@ -41,7 +43,7 @@ while (<>) {
 			print "stripped\n";
 		}
 		#get stage info
-		if ($line1 =~ /Stage [0-9] Infra Shiphomes \d\d\/\d\d\/\d\d/gs) {
+		if ($line1 =~ /Stage [0-9] Infra Shiphomes (\d+)\/(\d+)\/(\d+)/gs) {
 			print "====================\n";
 			print "stage getted\n";
 			$stage = $&;
