@@ -1,2 +1,1 @@
-Stage 7 Infra Shiphomes 11/19/15
-/ade_autofs/gd17_fmw/ASKERNEL_12.2.2.0.0_GENERIC.rdd/151116.1329.548.S/askernel/shiphome
+
