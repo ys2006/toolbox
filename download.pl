@@ -29,7 +29,7 @@ while (<>) {
 		#get main-content section
 		if ($_ =~ /<div id="main-content".*?\n\s*<\/div>/gs) {
 			print "content exists\n";
-			print $&."\n";
+			#print $&."\n";
 			$lines = $&;
 		}
 		#get Infra section
@@ -83,13 +83,13 @@ while (<>) {
 		#print $value;
 
 	}
-	$cmdStr="git add version.txt";
-	$value = `/bin/bash -c "${cmdStr}"`; 
-	print ${value}."\n";
-	$cmdStr="git commit -m ver_update";
-	$value = `/bin/bash -c "${cmdStr}"`; 
-	$cmdStr="git push autodownload";
-	$value = `/bin/bash -c "${cmdStr}"`; 
+	#$cmdStr="git add version.txt";
+	#$value = `/bin/bash -c "${cmdStr}"`; 
+	#print ${value}."\n";
+	#$cmdStr="git commit -m ver_update";
+	#$value = `/bin/bash -c "${cmdStr}"`; 
+	#$cmdStr="git push autodownload";
+	#$value = `/bin/bash -c "${cmdStr}"`; 
 	print ${value}."\n";
 	if (0) {
 		#print "do do" =~ /(\w+) \1/
