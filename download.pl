@@ -78,9 +78,9 @@ while (<>) {
 	else 
 	{
 		print "download the latest;\n";
-		#$cmdStr = "sshpass -p ".$ENV{'sshPasswd'}." scp -o StrictHostKeyChecking=no ".$ENV{'sshUser'}.${sshHost}.${shiphome}.${fileName}." ./";
-		#$value = `/bin/bash -c "${cmdStr}"`; 
-		#print $value;
+		$cmdStr = "sshpass -p ".$ENV{'sshPasswd'}." scp -o StrictHostKeyChecking=no ".$ENV{'sshUser'}.${sshHost}.${shiphome}.${fileName}." ./";
+		$value = `/bin/bash -c "${cmdStr}"`; 
+		print $value;
 
 	}
 	$cmdStr="git branch -d master";
