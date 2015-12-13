@@ -79,22 +79,23 @@ while (<>) {
 	{
 		print "download the latest;\n";
 		$cmdStr = "sshpass -p ".$ENV{'sshPasswd'}." scp -o StrictHostKeyChecking=no ".$ENV{'sshUser'}.${sshHost}.${shiphome}.${fileName}." ./";
+		print $cmdStr."\n";
 		$value = `/bin/bash -c "${cmdStr}"`; 
 		print $value;
 
 	}
-	$cmdStr="git branch -d master";
-	$value = `/bin/bash -c "${cmdStr}"`; 
-	$cmdStr="git checkout -b master";
-	$value = `/bin/bash -c "${cmdStr}"`; 
-	$cmdStr="git add version.txt";
-	$value = `/bin/bash -c "${cmdStr}"`; 
-	print ${value}."\n";
-	$cmdStr="git commit -m ver_update";
-	$value = `/bin/bash -c "${cmdStr}"`; 
-	$cmdStr="git push autodownload";
-	$value = `/bin/bash -c "${cmdStr}"`; 
-	print ${value}."\n";
+	#$cmdStr="git branch -d master";
+	#$value = `/bin/bash -c "${cmdStr}"`; 
+	#$cmdStr="git checkout -b master";
+	#$value = `/bin/bash -c "${cmdStr}"`; 
+	#$cmdStr="git add version.txt";
+	#$value = `/bin/bash -c "${cmdStr}"`; 
+	#print ${value}."\n";
+	#$cmdStr="git commit -m ver_update";
+	#$value = `/bin/bash -c "${cmdStr}"`; 
+	#$cmdStr="git push autodownload";
+	#$value = `/bin/bash -c "${cmdStr}"`; 
+	#print ${value}."\n";
 	if (0) {
 		#print "do do" =~ /(\w+) \1/
 		my $s = "do/ re/";
