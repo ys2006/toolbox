@@ -33,7 +33,7 @@ while (<>) {
 			$lines = $&;
 		}
 		#get Infra section
-		if ($lines =~ /<h[1-9] id="FMW12.2.2.0.0ShiphomeAnnouncementstoQA-Stage[1-9]InfraShiphomes(\d+)\/(\d+)\/(\d+)".*?<h[1-9]/gs) {
+		if ($lines =~ /<h[1-9] id="FMW12.2.2.0.0ShiphomeAnnouncementstoQA-Stage[1-9]+InfraShiphomes(\d+)\/(\d+)\/(\d+)".*?<h[1-9]/gs) {
 			print "matched\n";
 			$line1 = $&;
 		}
@@ -43,7 +43,7 @@ while (<>) {
 			print "stripped\n";
 		}
 		#get stage info
-		if ($line1 =~ /Stage [0-9] Infra Shiphomes (\d+)\/(\d+)\/(\d+)/gs) {
+		if ($line1 =~ /Stage [0-9]+ Infra Shiphomes (\d+)\/(\d+)\/(\d+)/gs) {
 			print "====================\n";
 			print "stage getted\n";
 			$stage = $&;
