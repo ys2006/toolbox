@@ -19,7 +19,7 @@ my $lines="";
 my $line1="";
 my $shiphome="";
 my $fileName="wls_jrf_generic.jar";
-my $sshHost="\@stuya42.us.oracle.com:";
+my $sshHost="\@slc02qjt.us.oracle.com:";
 my $stage="";
 my $cwd="";
 my $value="";
@@ -33,7 +33,7 @@ while (<>) {
 			$lines = $&;
 		}
 		#get Infra section
-		if ($lines =~ /<h[1-9] id="FMW12.2.2.0.0ShiphomeAnnouncementstoQA-Stage[1-9]+InfraShiphomes(\d+)\/(\d+)\/(\d+)".*?<h[1-9]/gs) {
+		if ($lines =~ /<h[1-9] id="FMW12.2.1.1.0ShiphomeAnnouncementstoQA-Stage[1-9]+InfraShiphomes(\d+)\/(\d+)\/(\d+)".*?<h[1-9]/gs) {
 			print "matched\n";
 			$line1 = $&;
 		}
@@ -50,7 +50,7 @@ while (<>) {
 			print $stage."\n";;
 		}
 		#get shiphome path
-		if ($line1 =~ /From Linux: \/ade_autofs\/gd17_fmw\/ASKERNEL_12.2.2.0.0_GENERIC.rdd\/.*?\/askernel\/shiphome/gs) {
+		if ($line1 =~ /From Linux: \/ade_autofs\/gd17_fmw\/ASKERNEL_12.2.1.1.0_GENERIC.rdd\/.*?\/askernel\/shiphome/gs) {
 			print "====================\n";
 			print "path getted\n";
 			$shiphome = $&;
@@ -58,7 +58,6 @@ while (<>) {
 			$shiphome = $shiphome."/";
 			print $shiphome."\n";
 		}
-
 	}
 
 	open FW, '> version.txt' or die "open file failed : $!";
