@@ -8,10 +8,10 @@ undef $/;
 #Get local download version 
 my $ori_stage="";
 my $ori_shiphome="";
-
+my $verfile="";
 my $wd = Cwd::getcwd();
-my $verfile=$wd.'/version.txt'
-print $wd, "\n";
+$verfile=$wd.'/version.txt';
+print $verfile, "\n";
 
 open FR, $verfile or die "open file failed : $!";
 my $row = <FR>;
