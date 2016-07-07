@@ -10,7 +10,7 @@ my $ori_stage="";
 my $ori_shiphome="";
 my $verfile="";
 my $wd = Cwd::getcwd();
-$verfile=$wd.'/version.txt';
+$verfile=$wd.'/autoget/version.txt';
 print $verfile, "\n";
 
 open FR, $verfile or die "open file failed : $!";
