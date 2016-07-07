@@ -12,7 +12,7 @@ my $ori_shiphome="";
 my $wd = Cwd::getcwd();
 print $wd, "\n";
 
-open FR, $wd'/version.txt' or die "open file failed : $!";
+open FR, $wd.'/version.txt' or die "open file failed : $!";
 my $row = <FR>;
 ($ori_shiphome, $ori_stage) = split(/\n:/,$row);
 close FR;
