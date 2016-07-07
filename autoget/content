@@ -1,0 +1,2729 @@
+<!DOCTYPE html>
+<html>
+<head>
+                    <title>FMW 12.2.1.1.0 Shiphome Announcements to QA - RM Page - ASENG-WIKI</title>
+    
+        
+
+                        
+    
+                        
+    
+
+                
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=EDGE,chrome=IE7">
+<meta charset="UTF-8">
+<meta id="confluence-context-path" name="confluence-context-path" content="/asengwiki">
+<meta id="confluence-base-url" name="confluence-base-url" content="http://aseng-wiki.us.oracle.com/asengwiki">
+
+<meta id="atlassian-token" name="atlassian-token" content="19fca469ca0cf694ed8e12bb18ba7d2d07f75ce6">
+
+<meta id="confluence-space-key" name="confluence-space-key" content="RM">
+<script type="text/javascript">
+        var contextPath = '/asengwiki';
+</script>
+
+    
+
+<!-- include system css resources -->
+
+
+    <link type="text/css" rel="stylesheet" href="/asengwiki/s/d41d8cd98f00b204e9800998ecf8427e/en_GB-1988229788/4727/ffd10e10ff7bc0a1d7e29b4d2225707dd7f03d0b.5/50/_/download/superbatch/css/batch.css" media="all">
+<link type="text/css" rel="stylesheet" href="/asengwiki/s/d41d8cd98f00b204e9800998ecf8427e/en_GB-1988229788/4727/ffd10e10ff7bc0a1d7e29b4d2225707dd7f03d0b.5/50/_/download/superbatch/css/batch.css?media=print" media="print">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/asengwiki/s/d41d8cd98f00b204e9800998ecf8427e/en_GB-1988229788/4727/ffd10e10ff7bc0a1d7e29b4d2225707dd7f03d0b.5/50/_/download/superbatch/css/batch.css?conditionalComment=lt+IE+9" media="all">
+<![endif]-->
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="/asengwiki/s/d41d8cd98f00b204e9800998ecf8427e/en_GB-1988229788/4727/ffd10e10ff7bc0a1d7e29b4d2225707dd7f03d0b.5/50/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+8" media="all">
+<![endif]-->
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="/asengwiki/s/d41d8cd98f00b204e9800998ecf8427e/en_GB-1988229788/4727/ffd10e10ff7bc0a1d7e29b4d2225707dd7f03d0b.5/50/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/asengwiki/s/d41d8cd98f00b204e9800998ecf8427e/en_GB-1988229788/4727/ffd10e10ff7bc0a1d7e29b4d2225707dd7f03d0b.5/546ccb4ce038140f80073097db1e0ef6/_/download/contextbatch/css/page/batch.css" media="all">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/asengwiki/s/d41d8cd98f00b204e9800998ecf8427e/en_GB-1988229788/4727/ffd10e10ff7bc0a1d7e29b4d2225707dd7f03d0b.5/546ccb4ce038140f80073097db1e0ef6/_/download/contextbatch/css/page/batch.css?conditionalComment=lt+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/asengwiki/s/d41d8cd98f00b204e9800998ecf8427e/en_GB-1988229788/4727/ffd10e10ff7bc0a1d7e29b4d2225707dd7f03d0b.5/bfb0160fca4733eb43e121dad1834796/_/download/contextbatch/css/pagebanner/batch.css" media="all">
+<link type="text/css" rel="stylesheet" href="/asengwiki/s/d41d8cd98f00b204e9800998ecf8427e/en_GB-1988229788/4727/ffd10e10ff7bc0a1d7e29b4d2225707dd7f03d0b.5/ee8b06af24c2b207779148a5343be38f/_/download/contextbatch/css/viewcontent,atl.general,main,plugin.quick.comment.pre/batch.css?supportedApplication=true" media="all">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/asengwiki/s/d41d8cd98f00b204e9800998ecf8427e/en_GB-1988229788/4727/ffd10e10ff7bc0a1d7e29b4d2225707dd7f03d0b.5/ee8b06af24c2b207779148a5343be38f/_/download/contextbatch/css/viewcontent,atl.general,main,plugin.quick.comment.pre/batch.css?conditionalComment=lt+IE+9&amp;supportedApplication=true" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/asengwiki/s/d41d8cd98f00b204e9800998ecf8427e/en_GB-1988229788/4727/ffd10e10ff7bc0a1d7e29b4d2225707dd7f03d0b.5/6.3.1/_/download/batch/com.atlassian.confluence.plugins.confluence-space-ia:spacesidebar/com.atlassian.confluence.plugins.confluence-space-ia:spacesidebar.css" media="all">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/asengwiki/s/d41d8cd98f00b204e9800998ecf8427e/en_GB-1988229788/4727/ffd10e10ff7bc0a1d7e29b4d2225707dd7f03d0b.5/6.3.1/_/download/batch/com.atlassian.confluence.plugins.confluence-space-ia:spacesidebar/com.atlassian.confluence.plugins.confluence-space-ia:spacesidebar.css?conditionalComment=lt+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/asengwiki/s/d41d8cd98f00b204e9800998ecf8427e/en_GB-1988229788/4727/ffd10e10ff7bc0a1d7e29b4d2225707dd7f03d0b.5/1.3/_/download/batch/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources.css" media="all">
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/asengwiki/s/d41d8cd98f00b204e9800998ecf8427e/en_GB-1988229788/4727/ffd10e10ff7bc0a1d7e29b4d2225707dd7f03d0b.5/1.3/_/download/batch/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources.css?conditionalComment=lt+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/asengwiki/s/d41d8cd98f00b204e9800998ecf8427e/en_GB-1988229788/4727/ffd10e10ff7bc0a1d7e29b4d2225707dd7f03d0b.5/5.6.5/_/download/batch/confluence.extra.jira:web-resources-adg/confluence.extra.jira:web-resources-adg.css" media="all">
+<link type="text/css" rel="stylesheet" href="/asengwiki/s/en_GB-1988229788/4727/ffd10e10ff7bc0a1d7e29b4d2225707dd7f03d0b.5/2/_/styles/colors.css?spaceKey=RM" media="all">
+<link type="text/css" rel="stylesheet" href="/asengwiki/s/en_GB-1988229788/4727/ffd10e10ff7bc0a1d7e29b4d2225707dd7f03d0b.5/1.0/_/download/resources/com.atlassian.confluence.themes.default:styles/default-theme.css" media="all">
+
+<!-- end system css resources -->
+
+    <meta name="confluence-request-time" content="1464890086422">
+        
+    
+        
+            <meta name="ajs-is-confluence-admin" content="false">
+            <meta name="ajs-connection-timeout" content="30000">
+            <meta name="ajs-use-keyboard-shortcuts" content="true">
+            <meta name="ajs-show-space-welcome-dialog" content="true">
+            <meta name="ajs-keyboardshortcut-hash" content="18b9c3f32383139523a989aefbb3364c">
+            <style>.ia-fixed-sidebar, .ia-splitter-left {width: 285px;}.theme-default .ia-splitter #main {margin-left: 285px;}.ia-fixed-sidebar {visibility: hidden;}</style>
+            
+
+    
+            
+    
+    
+            <meta name="ajs-page-id" content="5204830457">
+            <meta name="ajs-content-type" content="page">
+            <meta name="ajs-page-title" content="FMW 12.2.1.1.0 Shiphome Announcements to QA">
+            <meta name="ajs-parent-page-title" content="Home">
+            <meta name="ajs-parent-page-id" content="22727">
+            <meta name="ajs-space-key" content="RM">
+            <meta name="ajs-space-name" content="RM Page">
+            <meta name="ajs-jira-metadata-count" content="-1">
+            <meta name="ajs-from-page-title" content="">
+            <meta name="ajs-can-remove-page" content="false">
+            <meta name="ajs-browse-page-tree-mode" content="view">
+            <meta name="ajs-user-display-name" content="dylan_yin">
+            <meta name="ajs-editor.loader.comment.resources" content="&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;/asengwiki/s/d41d8cd98f00b204e9800998ecf8427e/en_GB-1988229788/4727/ffd10e10ff7bc0a1d7e29b4d2225707dd7f03d0b.5/14ffcdd200bd3f6ca768a2347f538f55/_/download/contextbatch/css/comment-editor/batch.css&quot; media=&quot;all&quot;&gt;
+">
+            <meta name="ajs-context-path" content="/asengwiki">
+            <meta name="ajs-base-url" content="http://aseng-wiki.us.oracle.com/asengwiki">
+            <meta name="ajs-version-number" content="5.4.1">
+            <meta name="ajs-build-number" content="4727">
+            <meta name="ajs-remote-user" content="dylan_yin">
+            <meta name="ajs-current-user-fullname" content="dylan_yin">
+            <meta name="ajs-current-user-avatar-url" content="/images/icons/profilepics/default.png">
+            <meta name="ajs-static-resource-url-prefix" content="/asengwiki/s/en_GB-1988229788/4727/ffd10e10ff7bc0a1d7e29b4d2225707dd7f03d0b.5/_">
+            <meta name="ajs-global-settings-attachment-max-size" content="5242880">
+            <meta name="ajs-user-locale" content="en_GB">
+            <meta name="ajs-enabled-dark-features" content="sync.event">
+            <meta name="ajs-atl-token" content="19fca469ca0cf694ed8e12bb18ba7d2d07f75ce6">
+            <meta name="ajs-confluence-flavour" content="VANILLA">
+            <meta name="ajs-editor.loader.resources" content="&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;/asengwiki/s/d41d8cd98f00b204e9800998ecf8427e/en_GB-1988229788/4727/ffd10e10ff7bc0a1d7e29b4d2225707dd7f03d0b.5/83b69cd15c0a3aac23db3a36bbb2d2c2/_/download/contextbatch/css/editor,macro-browser,fullpage-editor,-viewcontent,-atl.general/batch.css&quot; media=&quot;all&quot;&gt;
+&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;/asengwiki/s/d41d8cd98f00b204e9800998ecf8427e/en_GB-1988229788/4727/ffd10e10ff7bc0a1d7e29b4d2225707dd7f03d0b.5/83b69cd15c0a3aac23db3a36bbb2d2c2/_/download/contextbatch/css/editor,macro-browser,fullpage-editor,-viewcontent,-atl.general/batch.css?media=%28max-width%3A+1450px%29&quot; media=&quot;(max-width: 1450px)&quot;&gt;
+&lt;!--[if lt IE 9]&gt;
+&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;/asengwiki/s/d41d8cd98f00b204e9800998ecf8427e/en_GB-1988229788/4727/ffd10e10ff7bc0a1d7e29b4d2225707dd7f03d0b.5/83b69cd15c0a3aac23db3a36bbb2d2c2/_/download/contextbatch/css/editor,macro-browser,fullpage-editor,-viewcontent,-atl.general/batch.css?conditionalComment=lt+IE+9&quot; media=&quot;all&quot;&gt;
+&lt;![endif]--&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;/asengwiki/s/d41d8cd98f00b204e9800998ecf8427e/en_GB-1988229788/4727/ffd10e10ff7bc0a1d7e29b4d2225707dd7f03d0b.5/83b69cd15c0a3aac23db3a36bbb2d2c2/_/download/contextbatch/js/editor,macro-browser,fullpage-editor,-viewcontent,-atl.general/batch.js&quot; &gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;/asengwiki/s/d41d8cd98f00b204e9800998ecf8427e/en_GB-1988229788/4727/ffd10e10ff7bc0a1d7e29b4d2225707dd7f03d0b.5/1.1.2/_/download/batch/com.atlassian.confluence.plugins.editor.confluence-source-editor:atlassian-source-editor-javascript/com.atlassian.confluence.plugins.editor.confluence-source-editor:atlassian-source-editor-javascript.js&quot; &gt;&lt;/script&gt;
+">
+            <meta name="ajs-date.format" content="MMM dd, yyyy">
+    
+    <link rel="shortcut icon" href="/asengwiki/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="/asengwiki/favicon.ico">
+
+<link rel="search" type="application/opensearchdescription+xml" href="/asengwiki/opensearch/osd.action" title="ASENG-WIKI"/>
+    
+                    
+            <meta name="ajs-jira-metadata-show-discovery" content="true">
+            <meta name="ajs-create-issue-metadata-show-discovery" content="true">
+            
+
+    <!-- include system javascript resources -->
+    <script type="text/javascript" src="/asengwiki/s/d41d8cd98f00b204e9800998ecf8427e/en_GB-1988229788/4727/ffd10e10ff7bc0a1d7e29b4d2225707dd7f03d0b.5/50/_/download/superbatch/js/batch.js" ></script>
+<!--[if lte IE 8]>
+<script type="text/javascript" src="/asengwiki/s/d41d8cd98f00b204e9800998ecf8427e/en_GB-1988229788/4727/ffd10e10ff7bc0a1d7e29b4d2225707dd7f03d0b.5/50/_/download/superbatch/js/batch.js?conditionalComment=lte+IE+8" ></script>
+<![endif]-->
+<script type="text/javascript" src="/asengwiki/s/d41d8cd98f00b204e9800998ecf8427e/en_GB-1988229788/4727/ffd10e10ff7bc0a1d7e29b4d2225707dd7f03d0b.5/546ccb4ce038140f80073097db1e0ef6/_/download/contextbatch/js/page/batch.js" ></script>
+<script type="text/javascript" src="/asengwiki/s/d41d8cd98f00b204e9800998ecf8427e/en_GB-1988229788/4727/ffd10e10ff7bc0a1d7e29b4d2225707dd7f03d0b.5/ee8b06af24c2b207779148a5343be38f/_/download/contextbatch/js/viewcontent,atl.general,main,plugin.quick.comment.pre/batch.js?supportedApplication=true" ></script>
+<script type="text/javascript" src="/asengwiki/s/d41d8cd98f00b204e9800998ecf8427e/en_GB-1988229788/4727/ffd10e10ff7bc0a1d7e29b4d2225707dd7f03d0b.5/66c8b225c787d637c4c1ab102682601a/_/download/contextbatch/js/atl.comments/batch.js" ></script>
+<script type="text/javascript" src="/asengwiki/s/d41d8cd98f00b204e9800998ecf8427e/en_GB-1988229788/4727/ffd10e10ff7bc0a1d7e29b4d2225707dd7f03d0b.5/6.3.1/_/download/batch/com.atlassian.confluence.plugins.confluence-space-ia:soy-resources/com.atlassian.confluence.plugins.confluence-space-ia:soy-resources.js" ></script>
+<script type="text/javascript" src="/asengwiki/s/d41d8cd98f00b204e9800998ecf8427e/en_GB-1988229788/4727/ffd10e10ff7bc0a1d7e29b4d2225707dd7f03d0b.5/6.3.1/_/download/batch/com.atlassian.confluence.plugins.confluence-space-ia:spacesidebar/com.atlassian.confluence.plugins.confluence-space-ia:spacesidebar.js" ></script>
+<script type="text/javascript" src="/asengwiki/s/d41d8cd98f00b204e9800998ecf8427e/en_GB-1988229788/4727/ffd10e10ff7bc0a1d7e29b4d2225707dd7f03d0b.5/1.3/_/download/batch/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources/com.atlassian.confluence.plugins.confluence-highlight-actions:highlighting-experiment-resources.js" ></script>
+<script type="text/javascript" src="/asengwiki/s/d41d8cd98f00b204e9800998ecf8427e/en_GB-1988229788/4727/ffd10e10ff7bc0a1d7e29b4d2225707dd7f03d0b.5/1.3/_/download/batch/com.atlassian.mywork.mywork-confluence-host-plugin:mw-header-anchor/com.atlassian.mywork.mywork-confluence-host-plugin:mw-header-anchor.js" ></script>
+
+    
+
+        
+    <!-- end system javascript resources -->
+
+        
+        <script type="text/javascript">
+var $ = jQuery;
+</script>
+
+    
+                <link rel="canonical" href="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA">
+        <link rel="shortlink" href="http://aseng-wiki.us.oracle.com/asengwiki/x/_Wg7NgE">
+    <meta name="wikilink" content="[RM:FMW 12.2.1.1.0 Shiphome Announcements to QA]">
+    <meta name="page-version" content="236">
+
+</head>
+
+<body             onload="placeFocus()"
+     id="com-atlassian-confluence" class="theme-default  aui-layout aui-theme-default">
+
+        
+    <ul id="assistive-skip-links" class="assistive">
+    <li><a href="#title-heading">Skip to content</a></li>
+    <li><a href="#breadcrumbs">Skip to breadcrumbs</a></li>
+    <li><a href="#header-menu-bar">Skip to header menu</a></li>
+    <li><a href="#navigation">Skip to action menu</a></li>
+    <li><a href="#quick-search-query">Skip to quick search</a></li>
+</ul>
+<div id="page">
+<div id="full-height-container">
+    <div id="header-precursor">
+        <div class="cell">
+            
+                            </div>
+    </div>
+    
+
+
+
+<header id="header" role="banner">
+    <nav class="aui-header aui-dropdown2-trigger-group" role="navigation"><div class="aui-header-inner"><div class="aui-header-primary"><h1 id="logo" class="aui-header-logo aui-header-logo-custom"><a href="/asengwiki/"><img src="/asengwiki/s/en_GB-1988229788/4727/ffd10e10ff7bc0a1d7e29b4d2225707dd7f03d0b.5/_/images/logo/confluence-logo.png" alt="ASENG-WIKI" /></a></h1><ul class="aui-nav">
+                            <li>
+            
+        
+        
+<a  id="space-directory-link" href="/asengwiki/spacedirectory/view.action"  class=" aui-nav-imagelink"   title="Spaces">
+            <span>Spaces</span>
+    </a>
+        </li>
+                    <li>
+            
+    
+        
+<a  id="people-directory-link" href="/asengwiki/peopledirectory.action"  class=" aui-nav-imagelink"   title="People">
+            <span>People</span>
+    </a>
+        </li>
+                                            <li>
+            
+    
+        
+<a  id="create-page-button" href="/asengwiki"  class="aui-button aui-style aui-button-primary aui-nav-imagelink"   title="Create Content">
+            <span>Create</span>
+    </a>
+        </li>
+        </ul>
+</div><div class="aui-header-secondary"><ul class="aui-nav">
+                <li>
+<form id="quick-search" class="aui-quicksearch dont-default-focus header-quicksearch" action="/asengwiki/dosearchsite.action" method="get">
+    <fieldset>
+                        <label for="quick-search-query" class="assistive">Quick Search</label>
+        <input id="quick-search-query" class="text app-search search quick-search-query" type="text"
+               accessKey="q" autocomplete="off" name="queryString" title="Quick Search"  placeholder="Search" />
+        <input id="quick-search-submit" class="quick-search-submit" type="submit" value="Search"/>
+
+        <div class="aui-dd-parent quick-nav-drop-down"></div>
+    </fieldset>
+    <div class="hidden parameters">
+                    <!-- putMetadata failed to add value for key "quick-nav-enabled" so rendering metadata inline - see server debug log for details -->
+        <meta name="ajs-quick-nav-enabled" content="true">
+                </div>
+</form>
+</li>
+    <li>    
+        <a id="help-menu-link" class="aui-nav-link aui-dropdown2-trigger" href="#" aria-haspopup="true" aria-owns="help-menu-link-content" title="Help">
+        <span class="aui-icon aui-icon-small aui-iconfont-help">Help</span>
+    </a>
+    <nav id="help-menu-link-content" class="aui-dropdown2 aui-style-default" aria-hidden="true">
+                    <div class="aui-dropdown2-section">
+                <ul  id="help-menu-link-leading" class="aui-list-truncate section-leading first">
+                                            <li>
+    
+            
+<a  id="confluence-help-link" href="http://docs.atlassian.com/confluence/docs-54/Getting+Help+And+Support" class="    "      title="Visit the Confluence documentation home"  target="_blank"
+>
+        Online Help
+</a>
+</li>
+                                            <li>
+    
+            
+<a  id="keyboard-shortcuts-link" href="/asengwiki" class="    "      title="View available keyboard shortcuts" >
+        Keyboard Shortcuts
+</a>
+</li>
+                                            <li>
+    
+            
+<a  id="feed-builder-link" href="/asengwiki/dashboard/configurerssfeed.action" class="    "      title="Create your custom RSS feed." >
+        Feed Builder
+</a>
+</li>
+                                            <li>
+    
+            
+<a  id="whats-new-menu-link" href="http://docs.atlassian.com/confluence/docs-54/whatsnew/iframe?od=false&amp;a=false" class="    "      title="" >
+        What’s new
+</a>
+</li>
+                                            <li>
+    
+            
+<a  id="gadget-directory-link" href="/asengwiki" class="   user-item administration-link "      title="Browse gadgets provided by Confluence" >
+        Available Gadgets
+</a>
+</li>
+                                            <li>
+    
+            
+<a  id="confluence-about-link" href="/asengwiki/aboutconfluencepage.action" class="    "      title="Get more information about Confluence" >
+        About Confluence
+</a>
+</li>
+                                    </ul>
+            </div>
+            </nav>
+    </li>
+    <li>    
+    </li>
+                <li>
+        
+    
+        
+<a  id="notifications-anchor" href="/asengwiki"  class="mw-anchor read aui-nav-imagelink"   title="">
+            <span></span>
+    </a>
+    </li>
+        <li>                                    
+        <a id="user-menu-link" class="aui-dropdown2-trigger " aria-haspopup="true" aria-owns="user-menu-link-content" data-username="dylan_yin" href="#" title="dylan_yin">
+                    <div class="aui-avatar aui-avatar-small">
+                <div class="aui-avatar-inner">
+                    <img src="/asengwiki/s/en_GB-1988229788/4727/ffd10e10ff7bc0a1d7e29b4d2225707dd7f03d0b.5/_/images/icons/profilepics/default.png"/>
+                </div>
+            </div>
+            <span class="aui-icon-dropdown"></span>
+        </a>
+        <nav id="user-menu-link-content" class="aui-dropdown2 aui-style-default">
+                            <div class="aui-dropdown2-section">
+                    <ul  id="user-menu-link-user-status"                        class="aui-list-truncate section-user-status first">
+                                                    <li>
+    
+            
+<a  id="create-user-status-link" href="/asengwiki/display/~dylan_yin" class="   user-item update-user-status "      title="Update your status" >
+        Update Status…
+</a>
+</li>
+                                            </ul>
+                </div>
+                            <div class="aui-dropdown2-section">
+                    <ul  id="user-menu-link-user-preferences"                        class="aui-list-truncate section-user-preferences">
+                                                    <li>
+    
+            
+<a  id="create-personal-space-link" href="/asengwiki/spaces/createpersonalspace.action" class="   user-item personal-space create-personal-space-link "      title="" >
+        Add Personal Space…
+</a>
+</li>
+                                                    <li>
+    
+            
+<a  id="view-user-history-link" href="/asengwiki/users/viewuserhistory.action" class="   user-item user-history popup-link "      title="" >
+        Recently Viewed
+</a>
+</li>
+                                            </ul>
+                </div>
+                            <div class="aui-dropdown2-section">
+                    <ul  id="user-menu-link-user-content"                        class="aui-list-truncate section-user-content">
+                                                    <li>
+    
+            
+<a  id="view-user-profile-link" href="/asengwiki/users/viewmyprofile.action" class="   user-item user-profile "      title="" >
+        Profile
+</a>
+</li>
+                                                    <li>
+    
+            
+<a  id="user-settings-link" href="/asengwiki/users/viewmysettings.action" class="   user-item "      title="" >
+        Settings
+</a>
+</li>
+                                                    <li>
+    
+            
+<a  href="/asengwiki/users/viewfollow.action?username=dylan_yin" class="   follow-link "      title="" >
+        Network
+</a>
+</li>
+                                                    <li>
+    
+            
+<a  href="/asengwiki/display/status/dylan_yin/list" class="   user-item list-user-status "      title="" >
+        Status Updates
+</a>
+</li>
+                                                    <li>
+    
+            
+<a  id="user-favourites-link" href="/asengwiki/users/viewmyfavourites.action" class="   user-item "      title="" >
+        Favourites
+</a>
+</li>
+                                                    <li>
+    
+            
+<a  id="user-watches-link" href="/asengwiki/users/viewnotifications.action" class="   user-item "      title="" >
+        Watches
+</a>
+</li>
+                                                    <li>
+    
+            
+<a  id="user-drafts-link" href="/asengwiki/users/viewmydrafts.action" class="   user-item "      title="" >
+        Drafts
+</a>
+</li>
+                                                    <li>
+    
+            
+<a  id="upm-requests-link" href="/asengwiki/plugins/servlet/upm/requests?source=header_user" class="    "      title="" >
+        Atlassian Marketplace
+</a>
+</li>
+                                            </ul>
+                </div>
+                            <div class="aui-dropdown2-section">
+                    <ul  id="user-menu-link-user-operations"                        class="aui-list-truncate section-user-operations">
+                                                    <li>
+    
+            
+<a  id="logout-link" href="/asengwiki/logout.action" class="   user-item logout-link "      title="" >
+        Log Out
+</a>
+</li>
+                                            </ul>
+                </div>
+                    </nav>
+                    </li>
+</ul>
+</div></div><!-- .aui-header-inner--></nav><!-- .aui-header -->
+    <br class="clear">
+</header>
+
+    
+    	<div class="ia-splitter">
+    		<div class="ia-splitter-left">
+    			<div class="ia-fixed-sidebar">
+    				
+	    	<div class="acs-side-bar ia-scrollable-section"><div class="acs-side-bar-space-info tipsy-enabled" data-configure-tooltip="Edit Space Details"><div class="avatar"><div class="space-logo " data-key="RM" data-name="RM Page" data-entity-type="confluence.space"><div class="avatar-img-container"><div class="avatar-img-wrapper"><a href="/asengwiki/display/RM" title="RM Page"><img class="avatar-img" src="/asengwiki/images/logo/default-space-logo-48.png" alt="RM Page"></a></div></div></div></div><div class="name"><a href="/asengwiki/display/RM" title="RM Page">RM Page</a></div><div class="flyout-handle icon"></div></div><div class="acs-nav-wrapper"><div class="acs-nav" data-has-create-permission="true" data-quick-links-state="null" data-nav-type="pages"><div class="acs-nav-sections"><div class="main-links-section "><ul class="acs-nav-list"><li class="acs-nav-item wiki current-item"data-collector-key="spacebar-pages"><a class="acs-nav-item-link tipsy-enabled" href="/asengwiki/collector/pages.action?key=RM" data-collapsed-tooltip="Pages"><span class="icon"></span><span class="acs-nav-item-label">Pages</span></a></li><li class="acs-nav-item blog"data-collector-key="spacebar-blogs"><a class="acs-nav-item-link tipsy-enabled" href="/asengwiki/pages/viewrecentblogposts.action?key=RM" data-collapsed-tooltip="Blog"><span class="icon"></span><span class="acs-nav-item-label">Blog</span></a></li></ul></div><div class="quick-links-wrapper"><h5 class="ia-quick-links-header-title">Space Shortcuts</h5><div class="quick-links-section tipsy-enabled "><ul class="acs-nav-list"><li class="acs-nav-item pinned_page blueprint kb-how-to-article"><a class="acs-nav-item-link tipsy-enabled" href="/asengwiki/display/RM/How-To+Articles" data-collapsed-tooltip="null"><span class="icon"></span><span class="acs-nav-item-label">How-To Articles</span></a></li><li class="acs-nav-item pinned_page blueprint requirements"><a class="acs-nav-item-link tipsy-enabled" href="/asengwiki/display/RM/Product+Requirements" data-collapsed-tooltip="null"><span class="icon"></span><span class="acs-nav-item-label">Product Requirements</span></a></li><li class="acs-nav-item pinned_page blueprint meeting-notes"><a class="acs-nav-item-link tipsy-enabled" href="/asengwiki/pages/viewpage.action?pageId=5207866642" data-collapsed-tooltip="null"><span class="icon"></span><span class="acs-nav-item-label">Meeting Notes (2)</span></a></li><li class="acs-nav-item pinned_page blueprint decisions"><a class="acs-nav-item-link tipsy-enabled" href="/asengwiki/display/RM/Decision+register" data-collapsed-tooltip="null"><span class="icon"></span><span class="acs-nav-item-label">Decision register</span></a></li><li class="acs-nav-item pinned_page blueprint retrospective"><a class="acs-nav-item-link tipsy-enabled" href="/asengwiki/display/RM/Retrospectives" data-collapsed-tooltip="null"><span class="icon"></span><span class="acs-nav-item-label">Retrospectives</span></a></li></ul></div></div></div></div></div><div class="ia-secondary-container tipsy-enabled" data-tree-type="pages"><div class="ia-secondary-header"><h5 class="ia-secondary-header-title pages"><span class="label">Child pages</span></h5></div><div class="ia-secondary-parent-content"><ul class="parent ia-secondary-header-title wiki"><li class="parent-item"><a class="parent-item-link" href="/asengwiki/display/RM/Home" title="Home"><span class="icon"></span><span class="label">Home</span></a></li></ul></div><div class="ia-secondary-current-content"><ul class="ia-secondary-currentPage-title wiki current-item"><li><span class="icon"></span><span class="label">FMW 12.2.1.1.0 Shiphome Announcements to QA</span></li></ul></div><div class="ia-secondary-content"><div class="contextual-nav-child-pages"><ul class="children"><li class="child-item" data-page-id="5207261648"><span class="icon"></span><a href="/asengwiki/display/RM/FMW+12.2.1.1.0+Stage+4+Shiphome+Announcements" title="FMW 12.2.1.1.0 Stage 4 Shiphome Announcements"><span class="label">FMW 12.2.1.1.0 Stage 4 Shiphome Announcements</span></a></li><li class="child-item" data-page-id="5208427285"><span class="icon"></span><a href="/asengwiki/display/RM/FMW+12.2.1.1.0+Stage+9+Shiphome+Announcement" title="FMW 12.2.1.1.0 Stage 9 Shiphome Announcement"><span class="label">FMW 12.2.1.1.0 Stage 9 Shiphome Announcement</span></a></li><li class="child-item" data-page-id="5209508810"><span class="icon"></span><a href="/asengwiki/display/RM/FMW+12.2.1.1.0+Stage+12+Shiphome+Announcement" title="FMW 12.2.1.1.0 Stage 12 Shiphome Announcement"><span class="label">FMW 12.2.1.1.0 Stage 12 Shiphome Announcement</span></a></li></ul><ul class="more-children"><li class="child-item" data-page-id="5210608985"><span class="icon"></span><a href="/asengwiki/display/RM/FMW+12.2.1.1.0+Stage+13+Shiphome+Announcement+to+QA" title="FMW 12.2.1.1.0 Stage 13 Shiphome Announcement to QA"><span class="label">FMW 12.2.1.1.0 Stage 13 Shiphome Announcement to QA</span></a></li><li class="child-item" data-page-id="5211260474"><span class="icon"></span><a href="/asengwiki/display/RM/FMW+12.2.1.1+RC1+Shiphome+Announcement+to+QA" title="FMW 12.2.1.1 RC1 Shiphome Announcement to QA"><span class="label">FMW 12.2.1.1 RC1 Shiphome Announcement to QA</span></a></li><li class="child-item" data-page-id="5211277903"><span class="icon"></span><a href="/asengwiki/display/RM/FMW+12.2.1.1+RC2a+Shiphome+Announcement+to+QA" title="FMW 12.2.1.1 RC2a Shiphome Announcement to QA"><span class="label">FMW 12.2.1.1 RC2a Shiphome Announcement to QA</span></a></li><li class="child-item" data-page-id="5206013491"><span class="icon"></span><a href="/asengwiki/display/RM/FMW+12.2.1.1+Stage+2+Shiphome+Announcement" title="FMW 12.2.1.1 Stage 2 Shiphome Announcement"><span class="label">FMW 12.2.1.1 Stage 2 Shiphome Announcement</span></a></li><li class="child-item" data-page-id="5206653597"><span class="icon"></span><a href="/asengwiki/display/RM/FMW+12.2.1.1+Stage+3+Shiphome+Announcement" title="FMW 12.2.1.1 Stage 3 Shiphome Announcement"><span class="label">FMW 12.2.1.1 Stage 3 Shiphome Announcement</span></a></li><li class="child-item" data-page-id="5209099974"><span class="icon"></span><a href="/asengwiki/display/RM/FMW+12.2.1.1+Stage+10+Shiphome+Announcement" title="FMW 12.2.1.1 Stage 10 Shiphome Announcement"><span class="label">FMW 12.2.1.1 Stage 10 Shiphome Announcement</span></a></li><li class="child-item" data-page-id="5209496018"><span class="icon"></span><a href="/asengwiki/display/RM/FMW+12.2.1.1+Stage+11+Shiphome+Announcement" title="FMW 12.2.1.1 Stage 11 Shiphome Announcement"><span class="label">FMW 12.2.1.1 Stage 11 Shiphome Announcement</span></a></li><li class="child-item" data-page-id="5210622381"><span class="icon"></span><a href="/asengwiki/display/RM/FMW+12.2.1.1+Stage+14+Shiphome+Announcement" title="FMW 12.2.1.1 Stage 14 Shiphome Announcement"><span class="label">FMW 12.2.1.1 Stage 14 Shiphome Announcement</span></a></li></ul><a class="more-children-link" href=""><span class="icon"></span><span class="label">8 more child pages</span></a><a class="create-child-page-link" href="/asengwiki/pages/createpage.action?spaceKey=RM&amp;fromPageId=5204830457"><span class="icon"></span><span class="label">Create child page</span></a></div></div></div><div class="hidden"><a href="/asengwiki/collector/pages.action?key=RM" id="space-pages-link"></a><script type="text/x-template" title="logo-config-content"><h2>Space Details</h2><form id="crop-photo-form" class="aui" method="post" action="#"><div id="sidebar-logo-messages"></div><fieldset><div class="field-group"><label for="spaceName">Name</label><input autocomplete="off" name="spaceName" id="spaceName" class="text" maxlength="255" value="{spaceName}"><input type="hidden" name="spaceKey" id="spaceKey" value="RM"><input type="hidden" name="offsetX" id="avatar-offsetX" value="-1"><input type="hidden" name="offsetY" id="avatar-offsetY" value="-1"><input type="hidden" name="width" id="avatar-width" value="-1"><input type="hidden" name="logoType" id="logoType" value="default" data-last-value="default"></div></fieldset></form><form id="upload-logo-form" class="aui" method="POST" action="#" enctype="multipart/form-data"><fieldset class="group"><legend><span>Logo</span></legend><div class="field-group"><input class="upload" type="file" id="upload-logo-input" name="upload-logo-input"></div><small class="hidden"><a href="#" id="reset-logo">Reset to default logo</a></small><div id="image-holder" /></fieldset></form><div id="space-details-actions" class="buttons-container"><div class="buttons"><button class="aui-button save">Save</button><a href="#" class="aui-button aui-button-link cancel">Cancel</a></div></div></script></div></div><div class="space-tools-section"><div id="space-tools-menu-additional-items" class="hidden"><div data-label="Reorder pages" data-class="" data-href="/asengwiki/pages/reorderpages.action?key=RM">Reorder pages</div></div><div id="space-tools-dd-dummy"></div><a id="space-tools-menu-trigger" class="aui-button aui-button-subtle aui-dropdown2-trigger tipsy-enabled" aria-owns="space-tools-dd-dummy"><span class="aui-icon aui-icon-small aui-iconfont-configure">Configure</span><span class="label">Space tools</span></a><a class="expand-collapse-trigger"></a></div>
+    
+    			</div>
+    		</div>
+        <!-- \#header -->
+
+        
+        <div id="main" class=" aui-page-panel">
+                <div id="main-header">
+            
+    <div id="navigation" class="content-navigation view">
+                    <ul class="ajs-menu-bar">
+                            <li class="ajs-button normal">
+
+    
+        
+                            
+    
+    
+    <a  id="editPageLink" href="/asengwiki/pages/editpage.action?pageId=5204830457" rel="nofollow"  class="edit full-load"  accessKey="e"  title="Edit">
+                <span><u>E</u>dit</span>    </a>
+</li>
+                <li class="ajs-button normal">
+
+    
+        
+                            
+    
+    
+    <a  id="watch-content-button" href="/asengwiki?watchingPage=false&amp;watchingSpace=false&amp;watchingBlogs=false&amp;isAdmin=false&amp;isBlogPost=false" rel="nofollow"  class="watch-menu not-watching"   title="Watch (w)">
+                <span><u>W</u>atch</span>    </a>
+</li>
+                <li class="ajs-button normal">
+
+    
+        
+                            
+    
+    
+    <a  id="shareContentLink" href="/asengwiki" rel="nofollow"  class="share"   title="Share this content by emailing other users">
+                <span><u>S</u>hare</span>    </a>
+</li>
+                        
+        <li class="normal ajs-menu-item">
+        <a id="add-menu-link" class="add hidden ajs-menu-title aui-dropdown2-trigger" href="#" aria-haspopup="true" aria-owns="add-menu" data-container="#navigation"><span><span>Add</span></span></a>         <div id="add-menu" class="aui-dropdown2 aui-style-default">
+                            <ul  id="add-menu-space"                     class="section-space first aui-dropdown2-section">
+                                            <li>
+
+    
+        
+                            
+    
+    
+    <a  id="createPageLink" href="/asengwiki/pages/createpage.action?spaceKey=RM&amp;fromPageId=5204830457" rel="nofollow"  class="add-page"  accessKey="p"  title="Add a Page">
+                <span>Page</span>    </a>
+</li>
+                                        <li>
+
+    
+        
+                            
+    
+    
+    <a  id="createPageLinkTemplate" href="/asengwiki/pages/createpage-choosetemplate.action?spaceKey=RM&amp;newSpaceKey=RM&amp;fromPageId=5204830457" rel="nofollow"  class="add-page-template"  accessKey="p"  title="Add a Page using a template">
+                <span>Page from template</span>    </a>
+</li>
+                                        <li>
+
+    
+        
+                            
+    
+    
+    <a  id="createBlogpostLink" href="/asengwiki/pages/createblogpost.action?spaceKey=RM" rel="nofollow"  class="add-news"   title="Add a Blog Post">
+                <span>Blog Post</span>    </a>
+</li>
+                                </ul>
+                            <ul  id="add-menu-page"                     class="section-page aui-dropdown2-section">
+                                            <li>
+
+    
+        
+                            
+    
+    
+    <a  id="add-comment-menu-link" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?showComments=true&amp;showCommentArea=true#addcomment" rel="nofollow"  class="add-comment"   title="Add a Comment">
+                <span>Comment</span>    </a>
+</li>
+                                        <li>
+
+    
+        
+                            
+    
+    
+    <a  id="add-attachment-link" href="/asengwiki/pages/viewpageattachments.action?pageId=5204830457" rel="nofollow"  class="add-attachment"  accessKey="t"  title="Add an Attachment">
+                <span>Attachment</span>    </a>
+</li>
+                                </ul>
+                    </div>
+    </li>
+                    
+        <li class="normal ajs-menu-item">
+        <a id="action-menu-link" class="action ajs-menu-title aui-dropdown2-trigger" href="#" aria-haspopup="true" aria-owns="action-menu" data-container="#navigation"><span><span>Tools</span></span></a>         <div id="action-menu" class="aui-dropdown2 aui-style-default">
+                            <ul  id="action-menu-primary"                     class="section-primary first aui-dropdown2-section">
+                                            <li>
+
+    
+        
+                            
+    
+    
+    <a  id="view-attachments-link" href="/asengwiki/pages/viewpageattachments.action?pageId=5204830457" rel="nofollow"  class="action-view-attachments"  accessKey="t"  title="View Attachments">
+                <span>A<u>t</u>tachments (0)</span>    </a>
+</li>
+                                        <li>
+
+    
+        
+                            
+    
+    
+    <a  id="action-view-history-link" href="/asengwiki/pages/viewpreviousversions.action?pageId=5204830457" rel="nofollow"  class="action-view-history"   title="">
+                <span>Page History</span>    </a>
+</li>
+                                        <li>
+
+    
+        
+                            
+    
+    
+    <a  id="action-page-permissions-link" href="/asengwiki/pages/viewinfo.action?pageId=5204830457" rel="nofollow"  class="action-page-permissions"   title="Edit restrictions">
+                <span>Restrictions</span>    </a>
+</li>
+                                </ul>
+                            <ul  id="action-menu-marker"                     class="section-marker aui-dropdown2-section">
+                                            <li>
+
+    
+        
+                            
+    
+    
+    <a  id="page-favourite" href="/asengwiki/labels/addfavourite.action?entityId=5204830457&amp;atl_token=19fca469ca0cf694ed8e12bb18ba7d2d07f75ce6" rel="nofollow"  class="action-page-favourite"   title="">
+                <span>Favourite</span>    </a>
+</li>
+                                </ul>
+                            <ul  id="action-menu-secondary"                     class="section-secondary aui-dropdown2-section">
+                                            <li>
+
+    
+        
+                            
+    
+    
+    <a  id="view-page-info-link" href="/asengwiki/pages/viewinfo.action?pageId=5204830457" rel="nofollow"  class="action-view-info"   title="">
+                <span>Page Information</span>    </a>
+</li>
+                                        <li>
+
+    
+        
+                            
+    
+    
+    <a  id="link-to-page-link" href="/asengwiki/pages/viewinfo.action?pageId=5204830457" rel="nofollow"  class=""   title="Link to this Page">
+                <span>Link to this Page…</span>    </a>
+</li>
+                                        <li>
+
+    
+        
+                            
+    
+    
+    <a  id="view-in-hierarchy-link" href="/asengwiki/pages/reorderpages.action?key=RM&amp;openId=5204830457#selectedPageInHierarchy" rel="nofollow"  class=""   title="">
+                <span>View in Hierarchy</span>    </a>
+</li>
+                                        <li>
+
+    
+        
+                            
+    
+    
+    <a  id="action-source-editor-view-storage-link" href="/asengwiki/plugins/viewstorage/viewpagestorage.action?pageId=5204830457" rel="nofollow"  class="action-view-storage view-storage-link popup-link"   title="">
+                <span>View Storage Format</span>    </a>
+</li>
+                                        <li>
+
+    
+        
+                            
+    
+    
+    <a  id="action-view-source-link" href="/asengwiki/plugins/viewsource/viewpagesrc.action?pageId=5204830457" rel="nofollow"  class="action-view-source popup-link"   title="">
+                <span>View Source</span>    </a>
+</li>
+                                        <li>
+
+    
+        
+                            
+    
+    
+    <a  id="action-export-pdf-link" href="/asengwiki/spaces/flyingpdf/pdfpageexport.action?pageId=5204830457" rel="nofollow"  class=""   title="">
+                <span>Export to PDF</span>    </a>
+</li>
+                                        <li>
+
+    
+        
+                            
+    
+    
+    <a  id="action-export-word-link" href="/asengwiki/exportword?pageId=5204830457" rel="nofollow"  class="action-export-word"   title="">
+                <span>Export to Word</span>    </a>
+</li>
+                                        <li>
+
+    
+        
+                            
+    
+    
+    <a  id="import-word-doc" href="/asengwiki/pages/worddav/uploadimport.action?pageId=5204830457" rel="nofollow"  class=""   title="">
+                <span>Import Word Document</span>    </a>
+</li>
+                                </ul>
+                            <ul  id="action-menu-modify"                     class="section-modify aui-dropdown2-section">
+                                            <li>
+
+    
+        
+                            
+    
+    
+    <a  id="action-copy-page-link" href="/asengwiki/pages/copypage.action?idOfPageToCopy=5204830457&amp;spaceKey=RM" rel="nofollow"  class="action-copy"   title="">
+                <span>Copy</span>    </a>
+</li>
+                                        <li>
+
+    
+        
+                            
+    
+    
+    <a  id="action-move-page-dialog-link" href="/asengwiki/pages/viewpage.action?pageId=5204830457" rel="nofollow"  class="action-move"   title="">
+                <span>Move</span>    </a>
+</li>
+                                </ul>
+                    </div>
+    </li>
+            </ul>
+    </div>
+
+            
+            <div id="title-heading" class="pagetitle with-breadcrumbs">
+                
+                                    <div id="breadcrumb-section">
+                        
+    
+    
+    <ol id="breadcrumbs">
+                    
+                
+        <li class="first" >
+                
+
+                    <span class=""><a href="/asengwiki/collector/pages.action?key=RM">Pages</a></span>
+                            
+                
+        <li>
+                
+
+                    <span class=""><a href="/asengwiki/display/RM/Home">Home</a></span>
+                </ol>
+
+
+                    </div>
+                
+                
+        <a href="#page-banner-end" class="assistive">Skip to end of banner</a>
+<div id="page-banner-start" class="assistive"></div>
+
+                    
+            <div id="page-metadata-banner"><ul class="banner"><li id="system-content-items" class="noprint"><a href="" title="Restrictions apply" id="content-metadata-page-restrictions" class="hidden"><img class="page-banner-item-icon" src="/asengwiki/s/en_GB-1988229788/4727/ffd10e10ff7bc0a1d7e29b4d2225707dd7f03d0b.5/_/download/resources/com.atlassian.confluence.plugins.confluence-page-banner:page-banner-resources/images/red_padlock.png" style="height: 16px; width: 16px;"/></a></li><li class="page-metadata-item noprint"  id="content-metadata-jira-wrapper"><a href="" title="" id="content-metadata-jira" class="aui-button aui-button-subtle content-metadata-jira tipsy-disabled hidden"><img class="page-banner-item-icon" src="/asengwiki/s/en_GB-1988229788/4727/ffd10e10ff7bc0a1d7e29b4d2225707dd7f03d0b.5/_/download/resources/com.atlassian.confluence.plugins.confluence-jira-metadata:confluence-jira-metadata-resources/img/icon-jira-link.png" style="height: 16px; width: 16px;"/><span>JIRA links</span></a></li></ul></div>
+            
+
+<a href="#page-banner-start" class="assistive">Go to start of banner</a>
+<div id="page-banner-end" class="assistive"></div>
+    
+
+                <h1 id="title-text" class="with-breadcrumbs">
+                                                <a href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA">FMW 12.2.1.1.0 Shiphome Announcements to QA</a>
+                                    </h1>
+            </div>
+        </div><!-- \#main-header -->
+        
+        
+
+        <div id="sidebar-container">
+                                                </div><!-- \#sidebar-container -->
+
+        
+    
+
+        
+
+
+
+
+        
+
+    
+    
+        
+    
+    
+                    
+    
+
+                        
+    
+    
+
+    
+
+
+
+
+<div id="content" class="page view">
+    
+
+<div id="action-messages">
+                        </div>
+
+
+
+        <script type="text/x-template" title="searchResultsGrid">
+    <table class="aui">
+        <thead>
+            <tr class="header">
+                <th class="search-result-title">Page Title</th>
+                <th class="search-result-space">Space</th>
+                <th class="search-result-date">Updated</th>
+            </tr>
+        </thead>
+    </table>
+</script>
+<script type="text/x-template" title="searchResultsGridCount">
+    <p class="search-result-count">{0}</p>
+</script>
+<script type="text/x-template" title="searchResultsGridRow">
+    <tr class="search-result">
+        <td class="search-result-title"><a href="{1}" class="content-type-{2}"><span>{0}</span></a></td>
+        <td class="search-result-space"><a class="space" href="/asengwiki/display/{4}/" title="{3}">{3}</a></td>
+        <td class="search-result-date"><span class="date" title="{6}">{5}</span></td>
+    </tr>
+</script>
+        
+    
+            
+
+        
+                            
+    
+
+                    
+
+        
+        <a href="#page-metadata-end" class="assistive">Skip to end of metadata</a>
+<div id="page-metadata-start" class="assistive"></div>
+
+    <div class="page-metadata">
+        <ul>
+            <li class="page-metadata-modification-info">
+                
+        
+    
+        
+    
+        
+        
+            Created by <span class='author'>     <a href="    /asengwiki/display/~danielle_leone
+"
+                       class="url fn confluence-userlink" data-username="danielle_leone"
+                            >danielle_leone</a></span>, last modified by <span class='editor'>     <a href="    /asengwiki/display/~joseph_chandy
+"
+                       class="url fn confluence-userlink" data-username="joseph_chandy"
+                            >joseph_chandy</a></span> <a class='last-modified' title='Jun 01, 2016 17:03' href='/asengwiki/pages/diffpagesbyversion.action?pageId=5204830457&amp;selectedPageVersions=235&amp;selectedPageVersions=236'>yesterday at 05:03 PM</a>
+                </li>
+        </ul>
+    </div>
+
+
+<a href="#page-metadata-start" class="assistive">Go to start of metadata</a>
+<div id="page-metadata-end" class="assistive"></div>
+
+        
+                                
+        <div id="main-content" class="wiki-content">
+                           
+        <h4 id="FMW12.2.1.1.0ShiphomeAnnouncementstoQA-PreviouslyAnnouncedStages"><span style="color: rgb(0,51,102);"><strong><span style="color: rgb(0,0,0);"> </span></strong></span><a href="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Archived+Shiphome+Announcements" rel="nofollow"><span style="color: rgb(0,51,102);"><strong><span style="color: rgb(0,0,0);">Previously Announced Stages</span></strong></span></a></h4><h1 id="FMW12.2.1.1.0ShiphomeAnnouncementstoQA-"><span style="color: rgb(0,51,102);"><strong><span style="color: rgb(0,0,0);"><br /></span></strong></span></h1><h1 id="FMW12.2.1.1.0ShiphomeAnnouncementstoQA-.1"><span style="color: rgb(0,51,102);"><strong><span style="color: rgb(0,0,0);"><br /></span></strong></span></h1><h1 id="FMW12.2.1.1.0ShiphomeAnnouncementstoQA-RC3InfraShiphomes5/31/16"><span style="color: rgb(0,51,102);"><strong><span style="color: rgb(0,0,0);">RC3 Infra Shiphomes 5/31/16</span><br /></strong></span></h1><div class="table-wrap"><table class="confluenceTable"><tbody><tr><th class="confluenceTh"><div class="tablesorter-header-inner"><div class="tablesorter-header-inner"><div class="tablesorter-header-inner"><p> </p></div></div></div></th><th class="confluenceTh"><div class="tablesorter-header-inner"><div class="tablesorter-header-inner"><div class="tablesorter-header-inner"><p> </p></div></div></div></th><th class="confluenceTh"><div class="tablesorter-header-inner"><div class="tablesorter-header-inner"><div class="tablesorter-header-inner"><p>Comments</p></div></div></div></th></tr><tr><td class="confluenceTd"><p><strong>Infra Distributions</strong></p></td><td class="confluenceTd"><p>WLS - <strong> fmw_12.2.1.1.0_wls_generic.jar, <strong> fmw_12.2.1.1.0_</strong>wls_quick_generic.jar, <strong> fmw_12.2.1.1.0_</strong>wls_supplemental_quick_generic.jar</strong> <br class="atl-forced-newline" /> JRF - <strong> fmw_12.2.1.1.0_infrastructure_generic.jar</strong> <br class="atl-forced-newline" /> Coherence - <strong> fmw_12.2.1.1.0_coherence_generic.jar, fmw_12.2.1.1.0_coherence_quick_generic.jar, fmw_12.2.1.1.0_coherence_quick_supplemental_generic.jar</strong> <br class="atl-forced-newline" /> Toplink - <strong>fmw_12.2.1.1.0_toplink_quick_generic.jar</strong> <br class="atl-forced-newline" /> Jdeveloper -<strong> fmw_12.2.1.1.0_jdev_suite_generic.jar </strong></p><p>JDEV Platform Installers:</p><p><strong>jdev_suite_linux64.bin</strong></p><p><strong>jdev_suite_linux64-2.zip                            </strong></p><p><strong>setup_jdev_suite_win64.exe</strong></p><p><strong>setup_jdev_suite_win64-2.zip</strong></p><p><span style="color: rgb(0,0,0);">MapViewer - </span><strong><span style="color: rgb(0,0,0);"> fmw_12.2.1.1.0_mapviewer_generic.jar </span><br /></strong></p></td><td class="confluenceTd"><p> </p></td></tr><tr><td class="confluenceTd"><p><strong>Location</strong></p></td><td class="confluenceTd"><p>From Linux: /ade_autofs/gd17_fmw/ASKERNEL_12.2.1.1.0_GENERIC.rdd/<strong>160530.0831.365.S</strong>/askernel/shiphome <br class="atl-forced-newline" /> From Windows: \\adcavere03-cifs.us.oracle.com\gd17_fmw\ASKERNEL_12.2.1.1.0_GENERIC.rdd\<strong><strong>160530.0831.365.S</strong>\</strong>askernel\shiphome</p></td><td class="confluenceTd"><p> </p></td></tr><tr><td class="confluenceTd"><p><strong>Infra (ASKERNEL) Manifest</strong></p></td><td class="confluenceTd"><pre>manifest.integration.release:askernel-manifest:12.2.1.1.0-<strong>160530.0831.365</strong>:pom</pre><p>ASKERNEL fullsource on AIMEWeb</p></td><td class="confluenceTd"><p> </p></td></tr><tr><td class="confluenceTd"><p><strong>JDK</strong></p></td><td class="confluenceTd"><p>JDK 8 u77 b03:</p><p><a href="http://jre.us.oracle.com/java/re/jdk/8u77/promoted/fcs/b03/bundles/" class="external-link" rel="nofollow">http://jre.us.oracle.com/java/re/jdk/8u77/promoted/fcs/b03/bundles/</a></p><br /><p><strong>(for WLS Client Apps Only)</strong> Oracle JDK6U38-B05: <a class="external-link" href="http://home.us.oracle.com/results/release/oraclejdk_builds/6u38/builds/6u38-b05/" rel="nofollow">http://home.us.oracle.com/results/release/oraclejdk_builds/6u38/builds/6u38-b05/</a></p></td><td class="confluenceTd"><p> </p></td></tr><tr><td class="confluenceTd"><p><strong>DB 12.1.0.1</strong></p></td><td class="confluenceTd"><p>Linux 64-bit: /ade_autofs/shiphomes/rdbms/linux.x64/12.1.0.1.0/PRODUCTION/database <br class="atl-forced-newline" /> Windows 64-bit: \\adcnas438.us.oracle.com\pd_shiphomes\shiphomes\rdbms\windows.x64\12.1.0.1.0\PRODUCTION\database</p></td><td class="confluenceTd"><p> </p></td></tr><tr><td colspan="1" class="confluenceTd"><strong>DB 12.1.0.2</strong></td><td colspan="1" class="confluenceTd"><span style="color: rgb(51,51,51);">Linux 64-bit: /ade_autofs/shiphomes/rdbms/linux.x64/12.1.0/12.1.0.2.0/PRODUCTION/database</span><span style="color: rgb(51,51,51);"> </span><span style="color: rgb(51,51,51);"><br /> Windows 64-bit: \\adcnas438.us.oracle.com\pd_shiphomes\shiphomes\rdbms\windows.x64\12.1.0\12.1.0.2.0\PRODUCTION\database</span></td><td colspan="1" class="confluenceTd"> </td></tr><tr><td colspan="1" class="confluenceTd"><strong>DB 12.2.0.1</strong></td><td colspan="1" class="confluenceTd"><p><a href="https://stbeehive.oracle.com/content/dav/st/ST%20Shiphomes%20and%20Announcements/Documents/DB%20Shiphome%20Announcements/12.2.0/12.2.0.0.3/Linux.x64/RDBMS_12.2.0.0.3_LINUX.X64_160422.html" class="external-link" rel="nofollow">https://stbeehive.oracle.com/content/dav/st/ST%20Shiphomes%20and%20Announcements/Documents/DB%20Shiphome%20Announcements/12.2.0/12.2.0.0.3/Linux.x64/RDBMS_12.2.0.0.3_LINUX.X64_160422.html</a></p><p><em><span style="color: rgb(255,0,0);"><strong>**this is the highest release of the 12.2 DB right now - 12.2.0.1 won't release until end of July and is not release criteria for 12.2.1.1.0</strong></span></em></p></td><td colspan="1" class="confluenceTd"> </td></tr></tbody></table></div><h1 id="FMW12.2.1.1.0ShiphomeAnnouncementstoQA-RC3UPPERStackShiphomes5/31/16"><span style="color: rgb(0,0,0);"><strong>RC3 UPPER Stack Shiphomes 5/31/16</strong></span></h1><h2 id="FMW12.2.1.1.0ShiphomeAnnouncementstoQA-SOA"><strong>SOA <br /></strong></h2><p>Shiphomes: <strong> fmw_12.2.1.1.0_soa_generic.jar, fmw_12.2.1.1.0_b2bhealthcare_generic.jar, fmw_12.2.1.1.0_mft_generic.jar, fmw_12.2.1.1.0_soa_quickstart_generic.jar, fmw_12.2.1.1.0_bpm_quickstart_generic.jar, fmw_12.2.1.1.0_osb_generic.jar</strong></p><p><span style="color: rgb(0,0,0);">/ade_autofs/gd14_fmw/SOA_12.2.1.1.0_GENERIC.rdd/</span><strong>160531.0431.428.S</strong><span style="color: rgb(0,0,0);">/soa/shiphome</span></p><p>windows:\\adcavere03-cifs.us.oracle.com\gd14_fmw\SOA_12.2.1.1.0_GENERIC.rdd\<strong><strong>160531.0431.428.S</strong></strong>\soa\shiphome</p><pre>(manifest.integration.release:soa-manifest:12.2.1.1.0-<strong>160531.0431.428</strong>:pom)</pre><p> </p><p><em><strong>NOTE: OSA (Oracle Stream Analytics) previously known as OEP (Oracle Event Processing) will be directly processed by the OSA QA team. These shiphomes can be found in the following label series: SOA_12.2.1.1.0OSA_GENERIC under the soa/shiphome directory - fmw_12.2.1.1.0_osa_generic.jar. Any questions please contact the SOA QA Team.</strong></em></p><h2 id="FMW12.2.1.1.0ShiphomeAnnouncementstoQA-DataIntegration"><strong>Data Integration<strong> <br /></strong></strong></h2><p><strong>EDQ, ODI, and GoldenGateStudio Shiphomes </strong>:</p><p><strong>EDQ</strong>: fmw_12.2.1.1.0_edq_generic.jar<strong>, </strong><strong><strong><strong><strong>ODI</strong></strong></strong>:  </strong>fmw_12.2.1.1.0_odi_generic.jar and fmw_12.2.1.1.0_odi_generic2.jar<strong><strong>, </strong></strong><strong><strong>GG Studio: </strong></strong>fmw_12.2.1.1.0_oggstudio_generic.jar<strong><strong><br /></strong></strong></p><p><span style="color: rgb(0,0,0);">/ade_autofs/gd14_fmw/ODIINT_12.2.1.1.0_GENERIC.rdd<strong><strong>/160531.0145.380.S</strong><span style="color: rgb(0,0,0);">/</span></strong></span>odiint/shiphome</p><p><span style="color: rgb(0,0,0);">(manifest.integration<span style="color: rgb(0,51,102);">.<span style="color: rgb(0,51,102);">release:odiint-manifest:12.2.1.1.0-<span style="color: rgb(0,0,0);"><strong><strong><strong><strong><span style="color: rgb(0,0,0);"><strong><strong><span style="color: rgb(0,0,0);"><strong><strong><span style="color: rgb(0,0,0);"><strong><strong>160531.0145.380</strong></strong></span></strong></strong></span></strong></strong></span></strong></strong></strong></strong></span></span></span>:pom) </span></p><h2 id="FMW12.2.1.1.0ShiphomeAnnouncementstoQA-WebCenter"><strong>WebCenter</strong></h2><p><strong>Shiphomes: fmw_12.2.1.1.0_wccontent_generic.jar, fmw_12.2.1.1.0_wcportal_generic.jar, fmw_12.2.1.1.0_wcsites_generic.jar</strong></p><p>/ade_autofs/gd14_fmw/WEBCENTER_12.2.1.1.0_GENERIC.rdd/<strong>160531.0512.449.S</strong>/webcenter/shiphome</p><p>(<a class="external-link" href="http://artifactory-slc-prod1.oraclecorp.com/artifactory/fmw-virtual/manifest/integration/prerelease/webcenter-manifest/12.2.1.1.0-160531.0512.449/webcenter-manifest-12.2.1.1.0-160531.0512.449.pom" style="line-height: 1.4285;" rel="nofollow">manifest.integration.prerelease:webcenter-manifest:12.2.1.1.0-160531.0512.449</a>)</p><p><a href="http://dstintg.us.oracle.com/products/WEBCENTER/12.2.1.1.0/GENERIC/160531.0512.449.S/html/fullsource.html" class="external-link" rel="nofollow">Fullsource of WEBCENTER_12.2.1.1.0_GENERIC_160531.0512.449.S</a></p><h2 id="FMW12.2.1.1.0ShiphomeAnnouncementstoQA-OHS"><strong style="line-height: 1.5;">OHS</strong></h2><p><strong><span style="text-decoration: underline;">Linux.x64:</span></strong></p><p>/ade_autofs/gd12_fmw/ASCORE_12.2.1.1.0_LINUX.X64.rdd/<strong>160531.0142.528.S</strong><strong><span class="moz-txt-tag">/</span></strong>ascore/shiphome/fmw_12.2.1.1.0_ohs_linux64.bin</p><p>(manifest.integration.<a href="http://releaseascore-linux_x64-manifest:12.2.1.1.0-160531.0142.528:pom" class="external-link" rel="nofollow">release:ascore-linux_x64-manifest:12.2.1.1.0-160531.0142.528:pom</a>)</p><p> </p><p><span class="moz-txt-tag"><strong><u><span style="color: rgb(255,0,0);"><span style="color: rgb(0,0,0);">Windows.x64</span></span></u><u><strong><em><span style="color: rgb(255,0,0);"> </span></em></strong></u></strong></span></p><p><span class="moz-txt-tag">/</span>ade_autofs/wd55_fmw/ASCORE_12.2.1.1.0_WINDOWS.X64.rdd<span class="moz-txt-tag">/<strong>160531.1438.371.S/</strong>ascore/shiphome/setup_fmw_12.2.1.1.0_ohs_win64.exe </span></p><p>(manifest.integration.<a href="http://releaseascore-windows_x64-manifest:12.2.1.1.0-160531.1438.371:pom" class="external-link" rel="nofollow">release:ascore-windows_x64-manifest:12.2.1.1.0-160531.1438.371:pom</a>)</p><p> </p><p><u><strong>Porting Platforms<span style="color: rgb(0,0,0);">: <a href="/asengwiki/display/ASPorting/ASCORE+12.2.1.1+Patchset+Shiphomes+for+QA"><span style="color: rgb(0,0,0);">OHS/ASCORE 12.2.1.1 Patchset Shiphome Announcements Wiki </span></a></span></strong><br /></u></p><p><u><strong><br /></strong></u></p><h2 id="FMW12.2.1.1.0ShiphomeAnnouncementstoQA-OTD"><strong>OTD</strong></h2><p><u><strong>Linux.x64:</strong></u></p><p>/ade_autofs/gd12_fmw/ASCORE_12.2.1.1.0_LINUX.X64.rdd/<strong>160531.0142.528.S</strong>/ascore/shiphome/fmw_12.2.1.1.0_otd_linux64.bin</p><p>(manifest.integration.<a href="http://releaseascore-linux_x64-manifest:12.2.1.1.0-160531.0142.528:pom" class="external-link" rel="nofollow">release:ascore-linux_x64-manifest:12.2.1.1.0-160531.0142.528:pom</a>)</p><p> </p><p><strong><u><span style="color: rgb(255,0,0);"><span style="color: rgb(0,0,0);">Windows.x64</span></span></u><u><strong><em><span style="color: rgb(255,0,0);"><br /></span></em></strong></u></strong></p><p><span class="moz-txt-tag">/</span>ade_autofs/wd55_fmw/ASCORE_12.2.1.1.0_WINDOWS.X64.rdd<span class="moz-txt-tag">/<strong>160531.1438.371.S</strong></span><span class="moz-txt-tag"><strong>/</strong>ascore/shiphome/setup_fmw_12.2.1.1.0_otd_win64.exe</span></p><p>(manifest.integration.<a href="http://releaseascore-windows_x64-manifest:12.2.1.1.0-160531.1438.371:pom" class="external-link" rel="nofollow">release:ascore-windows_x64-manifest:12.2.1.1.0-160531.1438.371:pom</a>)</p><p> </p><p><span class="moz-txt-tag"><br /></span></p><h2 id="FMW12.2.1.1.0ShiphomeAnnouncementstoQA-Forms&amp;Reports"><strong>Forms  &amp; Reports<br /></strong></h2><p><u><strong>Linux:</strong></u></p><p>/ade_autofs/gd12_fmw/ASCLASSIC_12.2.1.1.0_LINUX.X64.rdd/<strong>160531.0840.507.S</strong>/asclassic/shiphome/fmw_12.2.1.1.0_fr_linux64.bin</p><pre>(<a class="external-link" href="http://artifactory-slc-prod1.oraclecorp.com/artifactory/fmw-virtual/manifest/integration/prerelease/asclassic-linux_x64-manifest/12.2.1.1.0-160531.0840.507/asclassic-linux_x64-manifest-12.2.1.1.0-160531.0840.507.pom" rel="nofollow">manifest.integration.prerelease:asclassic-linux_x64-manifest:12.2.1.1.0-160531.0840.507</a>)</pre><p><u><strong>Windows.X64</strong></u></p><p><span style="color: rgb(255,0,0);"><span style="color: rgb(0,0,0);"><span style="color: rgb(0,0,0);">\\slcavere05-422.us.oracle.com\wd55_fmw\ASCLASSIC_12.2.1.1.0_WINDOWS.X64.rdd\<strong>160601.0510.328.S</strong>\asclassic\shiphome\setup_fmw_12.2.1.1.0_fr_win64.exe</span></span></span><strong><strong><span style="color: rgb(255,0,0);"> </span></strong></strong></p><p>(<span style="color: rgb(0,0,0);"><span style="color: rgb(0,51,102);"><span style="color: rgb(0,0,0);"> </span></span></span><a class="external-link" href="http://artifactory-slc-prod1.oraclecorp.com/artifactory/fmw-virtual/manifest/integration/prerelease/asclassic-windows_x64-manifest/12.2.1.1.0-160601.0510.328/asclassic-windows_x64-manifest-12.2.1.1.0-160601.0510.328.pom" rel="nofollow">manifest.integration.prerelease:asclassic-windows_x64-manifest:12.2.1.1.0-160601.0510.328</a>)</p><p><span style="color: rgb(0,0,0);"><u><u><strong><br /></strong></u></u></span></p><p><span style="color: rgb(0,0,0);"><u><u><strong>Porting Platforms</strong>: <a href="/asengwiki/pages/viewpage.action?pageId=5205449334"><span style="color: rgb(0,0,0);"><strong>ASCLASSIC-12.2.1.1.0-Shiphomes Announcement Wiki</strong> :.</span></a></u></u><strong><u><u><strong><em><br /></em></strong></u></u></strong></span></p><h2 id="FMW12.2.1.1.0ShiphomeAnnouncementstoQA-.2"><strong><span style="color: rgb(0,0,0);"> </span></strong></h2><h2 id="FMW12.2.1.1.0ShiphomeAnnouncementstoQA-BI"><strong><span style="color: rgb(0,0,0);">BI </span><br /></strong></h2><p style="margin-left: 0.0px;"><strong><u><span>Linux.x64</span></u></strong><span> </span></p><p><span>/ade_autofs/gd57_bi/BIPLATFORM_12.2.1.1.0_LINUX.X64.rdd<strong>/<span style="color: rgb(0,0,0);">160531.1035.626.S</span></strong></span>/biplatform/shiphome<span style="color: rgb(0,0,0);"> </span> </p><p>WLS: <span>/ade_autofs/gd17_fmw/ASKERNEL_12.2.1.1.0_GENERIC.rdd/<strong><strong>160530.0831.365.S</strong></strong></span><span>/askernel/shiphome </span></p><p><strong><u><br /> </u></strong></p><p><strong><u><span>Windows.x64</span></u></strong><span> </span></p><p><span style="color: black;"> </span>/ade_autofs/gd57_bi/BIPLATFORM_12.2.1.1.0_WINDOWS.X64.rdd/<strong><span style="color: rgb(0,0,0);">160601.1048.365.S</span></strong><span style="color: rgb(0,0,0);">/</span>biplatform/shiphome</p><p>WLS: <span>/ade_autofs/gd17_fmw/ASKERNEL_12.2.1.1.0_GENERIC.rdd/<strong>160530.0831.365.S</strong></span><span>/askernel/shiphome </span></p><p> </p><h1 id="FMW12.2.1.1.0ShiphomeAnnouncementstoQA-IDM"> <strong style="line-height: 1.5;font-size: 20.0px;">IDM</strong></h1><p><strong>Shiphomes: fmw_12.2.1.1.0_idm_generic*.jar, fmw_12.2.1.1.0_oud_generic.jar</strong></p><p>/ade_autofs/gd17_fmw/IDM_12.2.1.1.0_GENERIC.rdd/160531.2015.308.S/idm/shiphome/</p><p><em>Manifest: </em><a class="external-link" href="http://artifactory-slc-prod1.oraclecorp.com/artifactory/fmw-virtual/manifest/integration/prerelease/idm-manifest/12.2.1.1.0-160531.2015.308/idm-manifest-12.2.1.1.0-160531.2015.308.pom" style="line-height: 1.42857;" rel="nofollow">manifest.integration.prerelease:idm-manifest:12.2.1.1.0-160531.2015.308</a></p><p> </p>
+
+                
+        
+    
+        </div>
+
+        <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA"
+    dc:identifier="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA"
+    dc:title="FMW 12.2.1.1.0 Shiphome Announcements to QA"
+    trackback:ping="http://aseng-wiki.us.oracle.com/asengwiki/rpc/trackback/5204830457"/>
+</rdf:RDF>
+-->
+
+                        
+    
+
+
+
+<div id="labels-section" class="pageSection group">
+    <div class="labels-section-content content-column" entityid="5204830457" entitytype="page">
+	<div class="labels-content">
+		
+    <ul class="label-list label-list-right  has-pen">
+            <li class="no-labels-message">
+            No labels
+        </li>
+                <li class="labels-edit-container">
+            <a href="#" class="show-labels-editor editor-icon" title="Edit Labels">
+                <span class="icon icon-edit">Edit Labels</span>
+            </a>
+        </li>
+        </ul>
+
+    </div>
+</div></div>
+        
+		
+            
+
+
+
+
+            
+    
+
+
+
+
+
+
+
+
+                    
+    
+<div id="comments-section" class="pageSection group">
+            <div class="section-header">
+            <h2 id="comments-section-title" class="section-title">
+                                    37 Comments
+                            </h2>
+        </div>
+    
+    
+    
+                            <ol class="comment-threads top-level" id="page-comments">
+                        <li id="comment-thread-5205983813" class="comment-thread">
+                    <div class="comment  " id="comment-5205983813">
+                <p class="comment-user-logo">
+                    <a  class="userLogoLink" data-username="omar_bellal" href="    /asengwiki/display/~omar_bellal
+">
+               <img class="userLogo logo" src="/asengwiki/images/icons/profilepics/default.png"
+               alt="User icon: omar_bellal" title="omar_bellal">
+           </a>                </p>
+                <div class="comment-header">
+                    <h4 class="author">    <a href="    /asengwiki/display/~omar_bellal
+"
+                       class="url fn confluence-userlink" data-username="omar_bellal"
+                            >omar_bellal</a></h4>
+                </div>
+                <div class="comment-body">
+                    <div class="comment-content wiki-content">
+                        <p>Why are the Webcenter shiphomes still named &quot;fmw_<span style="color: rgb(255,0,0);"><strong>12.2.1.0</strong></span>.0_...&quot; ???</p><p> </p>
+                    </div>
+                    <div class="comment-actions">
+                                                      <ul class="comment-actions-secondary">
+                                                                      <li class="first comment-permalink"><a title="Permanent link to this comment" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5205983813#comment-5205983813"
+                id="comment-permalink-5205983813"                ><span>Permalink</span></a></li>
+            </ul>
+                                <ul class="comment-actions-primary">
+                                                                      <li class="first action-reply-comment"><a  href="/asengwiki/pages/replycomment.action?commentId=5205983813&amp;pageId=5204830457"
+                id="reply-comment-5205983813"                ><span>Reply</span></a></li>
+                                                                      <li class=" comment-date"><a title="Feb 09, 2016 17:28" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5205983813#comment-5205983813"
+                              ><span>Feb 09, 2016</span></a></li>
+            </ul>
+                      </div>
+                </div>
+            </div>
+
+            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5205983813#comment-5205983813"
+    dc:identifier="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5205983813#comment-5205983813"
+    dc:title="FMW 12.2.1.1.0 Shiphome Announcements to QA"
+    trackback:ping="http://aseng-wiki.us.oracle.com/asengwiki/rpc/trackback/5205983813"/>
+</rdf:RDF>
+-->
+
+                    
+                                    <ol class="comment-threads">
+                                        <li id="comment-thread-5205983938" class="comment-thread">
+                    <div class="comment  " id="comment-5205983938">
+                <p class="comment-user-logo">
+                    <a  class="userLogoLink" data-username="eric_raney" href="    /asengwiki/display/~eric_raney
+">
+               <img class="userLogo logo" src="/asengwiki/images/icons/profilepics/default.png"
+               alt="User icon: eric_raney" title="eric_raney">
+           </a>                </p>
+                <div class="comment-header">
+                    <h4 class="author">    <a href="    /asengwiki/display/~eric_raney
+"
+                       class="url fn confluence-userlink" data-username="eric_raney"
+                            >eric_raney</a></h4>
+                </div>
+                <div class="comment-body">
+                    <div class="comment-content wiki-content">
+                        <p>I don't believe the shiphome name issue is specific to WebCenter, and it is out of our control. I believe it is a known issue that existed in 12.2.2.0.0 as well and is being worked on by Santosh's team. See this wiki: <a href="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12c+Infra+Open+Issues" rel="nofollow">http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12c+Infra+Open+Issues</a></p>
+                    </div>
+                    <div class="comment-actions">
+                                                      <ul class="comment-actions-secondary">
+                                                                      <li class="first comment-permalink"><a title="Permanent link to this comment" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5205983938#comment-5205983938"
+                id="comment-permalink-5205983938"                ><span>Permalink</span></a></li>
+            </ul>
+                                <ul class="comment-actions-primary">
+                                                                      <li class="first action-reply-comment"><a  href="/asengwiki/pages/replycomment.action?commentId=5205983938&amp;pageId=5204830457"
+                id="reply-comment-5205983938"                ><span>Reply</span></a></li>
+                                                                      <li class=" comment-date"><a title="Feb 09, 2016 19:02" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5205983938#comment-5205983938"
+                              ><span>Feb 09, 2016</span></a></li>
+            </ul>
+                      </div>
+                </div>
+            </div>
+
+            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5205983938#comment-5205983938"
+    dc:identifier="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5205983938#comment-5205983938"
+    dc:title="FMW 12.2.1.1.0 Shiphome Announcements to QA"
+    trackback:ping="http://aseng-wiki.us.oracle.com/asengwiki/rpc/trackback/5205983938"/>
+</rdf:RDF>
+-->
+
+                    
+                                </li>
+                                </ol>
+                        </li>
+                        <li id="comment-thread-5205984168" class="comment-thread">
+                    <div class="comment  " id="comment-5205984168">
+                <p class="comment-user-logo">
+                    <a  class="userLogoLink" data-username="basavaraja_allundi" href="    /asengwiki/display/~basavaraja_allundi
+">
+               <img class="userLogo logo" src="/asengwiki/images/icons/profilepics/default.png"
+               alt="User icon: basavaraja_allundi" title="basavaraja_allundi">
+           </a>                </p>
+                <div class="comment-header">
+                    <h4 class="author">    <a href="    /asengwiki/display/~basavaraja_allundi
+"
+                       class="url fn confluence-userlink" data-username="basavaraja_allundi"
+                            >Basavaraja Allundi</a></h4>
+                </div>
+                <div class="comment-body">
+                    <div class="comment-content wiki-content">
+                        <p>There was a space between SOA_12.2.1.1.0_GENERIC.rdd/ and <strong>160209.0214.45.S</strong> in the announced SOA Label. I have edited and removed this space.</p>
+                    </div>
+                    <div class="comment-actions">
+                                                      <ul class="comment-actions-secondary">
+                                                                      <li class="first comment-permalink"><a title="Permanent link to this comment" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5205984168#comment-5205984168"
+                id="comment-permalink-5205984168"                ><span>Permalink</span></a></li>
+            </ul>
+                                <ul class="comment-actions-primary">
+                                                                      <li class="first action-reply-comment"><a  href="/asengwiki/pages/replycomment.action?commentId=5205984168&amp;pageId=5204830457"
+                id="reply-comment-5205984168"                ><span>Reply</span></a></li>
+                                                                      <li class=" comment-date"><a title="Feb 09, 2016 21:39" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5205984168#comment-5205984168"
+                              ><span>Feb 09, 2016</span></a></li>
+            </ul>
+                      </div>
+                </div>
+            </div>
+
+            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5205984168#comment-5205984168"
+    dc:identifier="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5205984168#comment-5205984168"
+    dc:title="FMW 12.2.1.1.0 Shiphome Announcements to QA"
+    trackback:ping="http://aseng-wiki.us.oracle.com/asengwiki/rpc/trackback/5205984168"/>
+</rdf:RDF>
+-->
+
+                    
+                                </li>
+                        <li id="comment-thread-5205984993" class="comment-thread">
+                    <div class="comment  " id="comment-5205984993">
+                <p class="comment-user-logo">
+                    <a  class="userLogoLink" data-username="vetrivendan_varadharaj" href="    /asengwiki/display/~vetrivendan_varadharaj
+">
+               <img class="userLogo logo" src="/asengwiki/images/icons/profilepics/default.png"
+               alt="User icon: vetrivendan_varadharaj" title="vetrivendan_varadharaj">
+           </a>                </p>
+                <div class="comment-header">
+                    <h4 class="author">    <a href="    /asengwiki/display/~vetrivendan_varadharaj
+"
+                       class="url fn confluence-userlink" data-username="vetrivendan_varadharaj"
+                            >Vetrivendan Varadharaj</a></h4>
+                </div>
+                <div class="comment-body">
+                    <div class="comment-content wiki-content">
+                        <p>For BI, WLS location specified not accessible from adc boxes.</p><p>While accessing this path /ade_autofs/gd17_fmw/nfsdo_generic/ASKERNEL/12.2.2.0.0/GENERIC/160119.0401.701.S/askernel/shiphome/wls_jrf_generic.jar,  we get No such file or directory error. Anyone please help on this...</p><p> </p>
+                    </div>
+                    <div class="comment-actions">
+                                                      <ul class="comment-actions-secondary">
+                                                                      <li class="first comment-permalink"><a title="Permanent link to this comment" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5205984993#comment-5205984993"
+                id="comment-permalink-5205984993"                ><span>Permalink</span></a></li>
+            </ul>
+                                <ul class="comment-actions-primary">
+                                                                      <li class="first action-reply-comment"><a  href="/asengwiki/pages/replycomment.action?commentId=5205984993&amp;pageId=5204830457"
+                id="reply-comment-5205984993"                ><span>Reply</span></a></li>
+                                                                      <li class=" comment-date"><a title="Feb 10, 2016 03:26" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5205984993#comment-5205984993"
+                              ><span>Feb 10, 2016</span></a></li>
+            </ul>
+                      </div>
+                </div>
+            </div>
+
+            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5205984993#comment-5205984993"
+    dc:identifier="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5205984993#comment-5205984993"
+    dc:title="FMW 12.2.1.1.0 Shiphome Announcements to QA"
+    trackback:ping="http://aseng-wiki.us.oracle.com/asengwiki/rpc/trackback/5205984993"/>
+</rdf:RDF>
+-->
+
+                    
+                                </li>
+                        <li id="comment-thread-5207263979" class="comment-thread">
+                    <div class="comment  " id="comment-5207263979">
+                <p class="comment-user-logo">
+                    <a  class="userLogoLink" data-username="basavaraja_allundi" href="    /asengwiki/display/~basavaraja_allundi
+">
+               <img class="userLogo logo" src="/asengwiki/images/icons/profilepics/default.png"
+               alt="User icon: basavaraja_allundi" title="basavaraja_allundi">
+           </a>                </p>
+                <div class="comment-header">
+                    <h4 class="author">    <a href="    /asengwiki/display/~basavaraja_allundi
+"
+                       class="url fn confluence-userlink" data-username="basavaraja_allundi"
+                            >Basavaraja Allundi</a></h4>
+                </div>
+                <div class="comment-body">
+                    <div class="comment-content wiki-content">
+                        <p>There was a space again in the announced SOA Label. I have edited and removed this space.</p>
+                    </div>
+                    <div class="comment-actions">
+                                                      <ul class="comment-actions-secondary">
+                                                                      <li class="first comment-permalink"><a title="Permanent link to this comment" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207263979#comment-5207263979"
+                id="comment-permalink-5207263979"                ><span>Permalink</span></a></li>
+            </ul>
+                                <ul class="comment-actions-primary">
+                                                                      <li class="first action-reply-comment"><a  href="/asengwiki/pages/replycomment.action?commentId=5207263979&amp;pageId=5204830457"
+                id="reply-comment-5207263979"                ><span>Reply</span></a></li>
+                                                                      <li class=" comment-date"><a title="Mar 07, 2016 22:41" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207263979#comment-5207263979"
+                              ><span>Mar 07, 2016</span></a></li>
+            </ul>
+                      </div>
+                </div>
+            </div>
+
+            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207263979#comment-5207263979"
+    dc:identifier="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207263979#comment-5207263979"
+    dc:title="FMW 12.2.1.1.0 Shiphome Announcements to QA"
+    trackback:ping="http://aseng-wiki.us.oracle.com/asengwiki/rpc/trackback/5207263979"/>
+</rdf:RDF>
+-->
+
+                    
+                                </li>
+                        <li id="comment-thread-5207267629" class="comment-thread">
+                    <div class="comment  " id="comment-5207267629">
+                <p class="comment-user-logo">
+                    <a  class="userLogoLink" data-username="niranjan_ramani" href="    /asengwiki/display/~niranjan_ramani
+">
+               <img class="userLogo logo" src="/asengwiki/images/icons/profilepics/default.png"
+               alt="User icon: niranjan_ramani" title="niranjan_ramani">
+           </a>                </p>
+                <div class="comment-header">
+                    <h4 class="author">    <a href="    /asengwiki/display/~niranjan_ramani
+"
+                       class="url fn confluence-userlink" data-username="niranjan_ramani"
+                            >niranjan_ramani</a></h4>
+                </div>
+                <div class="comment-body">
+                    <div class="comment-content wiki-content">
+                        <p>Not able to access : Webcenter Portal shiphome</p><pre>/ade_autofs/gd14_fmw/WEBCENTER_12.2.1.1.0_GENERIC.rdd/160308.1341.177.S/webcenter/shiphome/fmw_12.1.4.0.0_wcportal_generic.jar </pre>
+                    </div>
+                    <div class="comment-actions">
+                                                      <ul class="comment-actions-secondary">
+                                                                      <li class="first comment-permalink"><a title="Permanent link to this comment" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207267629#comment-5207267629"
+                id="comment-permalink-5207267629"                ><span>Permalink</span></a></li>
+            </ul>
+                                <ul class="comment-actions-primary">
+                                                                      <li class="first action-reply-comment"><a  href="/asengwiki/pages/replycomment.action?commentId=5207267629&amp;pageId=5204830457"
+                id="reply-comment-5207267629"                ><span>Reply</span></a></li>
+                                                                      <li class=" comment-date"><a title="Mar 08, 2016 23:25" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207267629#comment-5207267629"
+                              ><span>Mar 08, 2016</span></a></li>
+            </ul>
+                      </div>
+                </div>
+            </div>
+
+            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207267629#comment-5207267629"
+    dc:identifier="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207267629#comment-5207267629"
+    dc:title="FMW 12.2.1.1.0 Shiphome Announcements to QA"
+    trackback:ping="http://aseng-wiki.us.oracle.com/asengwiki/rpc/trackback/5207267629"/>
+</rdf:RDF>
+-->
+
+                    
+                                    <ol class="comment-threads">
+                                        <li id="comment-thread-5207267640" class="comment-thread">
+                    <div class="comment  " id="comment-5207267640">
+                <p class="comment-user-logo">
+                    <a  class="userLogoLink" data-username="basavaraja_allundi" href="    /asengwiki/display/~basavaraja_allundi
+">
+               <img class="userLogo logo" src="/asengwiki/images/icons/profilepics/default.png"
+               alt="User icon: basavaraja_allundi" title="basavaraja_allundi">
+           </a>                </p>
+                <div class="comment-header">
+                    <h4 class="author">    <a href="    /asengwiki/display/~basavaraja_allundi
+"
+                       class="url fn confluence-userlink" data-username="basavaraja_allundi"
+                            >Basavaraja Allundi</a></h4>
+                </div>
+                <div class="comment-body">
+                    <div class="comment-content wiki-content">
+                        <p>Niranjan, Jar file name is wrong! it should be &quot;fmw_12.2.1.1.0_wcportal_generic.jar&quot;.</p>
+                    </div>
+                    <div class="comment-actions">
+                                                      <ul class="comment-actions-secondary">
+                                                                      <li class="first comment-permalink"><a title="Permanent link to this comment" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207267640#comment-5207267640"
+                id="comment-permalink-5207267640"                ><span>Permalink</span></a></li>
+            </ul>
+                                <ul class="comment-actions-primary">
+                                                                      <li class="first action-reply-comment"><a  href="/asengwiki/pages/replycomment.action?commentId=5207267640&amp;pageId=5204830457"
+                id="reply-comment-5207267640"                ><span>Reply</span></a></li>
+                                                                      <li class=" comment-date"><a title="Mar 08, 2016 23:28" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207267640#comment-5207267640"
+                              ><span>Mar 08, 2016</span></a></li>
+            </ul>
+                      </div>
+                </div>
+            </div>
+
+            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207267640#comment-5207267640"
+    dc:identifier="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207267640#comment-5207267640"
+    dc:title="FMW 12.2.1.1.0 Shiphome Announcements to QA"
+    trackback:ping="http://aseng-wiki.us.oracle.com/asengwiki/rpc/trackback/5207267640"/>
+</rdf:RDF>
+-->
+
+                    
+                                    <ol class="comment-threads">
+                                        <li id="comment-thread-5207267678" class="comment-thread">
+                    <div class="comment  " id="comment-5207267678">
+                <p class="comment-user-logo">
+                    <a  class="userLogoLink" data-username="niranjan_ramani" href="    /asengwiki/display/~niranjan_ramani
+">
+               <img class="userLogo logo" src="/asengwiki/images/icons/profilepics/default.png"
+               alt="User icon: niranjan_ramani" title="niranjan_ramani">
+           </a>                </p>
+                <div class="comment-header">
+                    <h4 class="author">    <a href="    /asengwiki/display/~niranjan_ramani
+"
+                       class="url fn confluence-userlink" data-username="niranjan_ramani"
+                            >niranjan_ramani</a></h4>
+                </div>
+                <div class="comment-body">
+                    <div class="comment-content wiki-content">
+                        <p>THanks for pointing...</p>
+                    </div>
+                    <div class="comment-actions">
+                                                      <ul class="comment-actions-secondary">
+                                                                      <li class="first comment-permalink"><a title="Permanent link to this comment" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207267678#comment-5207267678"
+                id="comment-permalink-5207267678"                ><span>Permalink</span></a></li>
+            </ul>
+                                <ul class="comment-actions-primary">
+                                                                      <li class="first action-reply-comment"><a  href="/asengwiki/pages/replycomment.action?commentId=5207267678&amp;pageId=5204830457"
+                id="reply-comment-5207267678"                ><span>Reply</span></a></li>
+                                                                      <li class=" comment-date"><a title="Mar 08, 2016 23:45" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207267678#comment-5207267678"
+                              ><span>Mar 08, 2016</span></a></li>
+            </ul>
+                      </div>
+                </div>
+            </div>
+
+            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207267678#comment-5207267678"
+    dc:identifier="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207267678#comment-5207267678"
+    dc:title="FMW 12.2.1.1.0 Shiphome Announcements to QA"
+    trackback:ping="http://aseng-wiki.us.oracle.com/asengwiki/rpc/trackback/5207267678"/>
+</rdf:RDF>
+-->
+
+                    
+                                </li>
+                                </ol>
+                        </li>
+                                </ol>
+                        </li>
+                        <li id="comment-thread-5207274167" class="comment-thread">
+                    <div class="comment  " id="comment-5207274167">
+                <p class="comment-user-logo">
+                    <a  class="userLogoLink" data-username="abirami_vaithilingam" href="    /asengwiki/display/~abirami_vaithilingam
+">
+               <img class="userLogo logo" src="/asengwiki/download/attachments/7830/rose1.jpg?version=1&amp;modificationDate=1165916146000&amp;api=v2"
+               alt="User icon: abirami_vaithilingam" title="abirami_vaithilingam">
+           </a>                </p>
+                <div class="comment-header">
+                    <h4 class="author">    <a href="    /asengwiki/display/~abirami_vaithilingam
+"
+                       class="url fn confluence-userlink" data-username="abirami_vaithilingam"
+                            >abirami_vaithilingam</a></h4>
+                </div>
+                <div class="comment-body">
+                    <div class="comment-content wiki-content">
+                        <p>Can someone please point me to the document/wiki/JIRA task relevant for this  change in  shiphome jar file names? Just curious to understand the requirement behind this change.</p>
+                    </div>
+                    <div class="comment-actions">
+                                                      <ul class="comment-actions-secondary">
+                                                                      <li class="first comment-permalink"><a title="Permanent link to this comment" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207274167#comment-5207274167"
+                id="comment-permalink-5207274167"                ><span>Permalink</span></a></li>
+            </ul>
+                                <ul class="comment-actions-primary">
+                                                                      <li class="first action-reply-comment"><a  href="/asengwiki/pages/replycomment.action?commentId=5207274167&amp;pageId=5204830457"
+                id="reply-comment-5207274167"                ><span>Reply</span></a></li>
+                                                                      <li class=" comment-date"><a title="Mar 10, 2016 22:19" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207274167#comment-5207274167"
+                              ><span>Mar 10, 2016</span></a></li>
+            </ul>
+                      </div>
+                </div>
+            </div>
+
+            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207274167#comment-5207274167"
+    dc:identifier="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207274167#comment-5207274167"
+    dc:title="FMW 12.2.1.1.0 Shiphome Announcements to QA"
+    trackback:ping="http://aseng-wiki.us.oracle.com/asengwiki/rpc/trackback/5207274167"/>
+</rdf:RDF>
+-->
+
+                    
+                                    <ol class="comment-threads">
+                                        <li id="comment-thread-5207275932" class="comment-thread">
+                    <div class="comment  " id="comment-5207275932">
+                <p class="comment-user-logo">
+                    <a  class="userLogoLink" data-username="omar_bellal" href="    /asengwiki/display/~omar_bellal
+">
+               <img class="userLogo logo" src="/asengwiki/images/icons/profilepics/default.png"
+               alt="User icon: omar_bellal" title="omar_bellal">
+           </a>                </p>
+                <div class="comment-header">
+                    <h4 class="author">    <a href="    /asengwiki/display/~omar_bellal
+"
+                       class="url fn confluence-userlink" data-username="omar_bellal"
+                            >omar_bellal</a></h4>
+                </div>
+                <div class="comment-body">
+                    <div class="comment-content wiki-content">
+                        <p><a href="/asengwiki/display/ASQA/FMW+12c+Shiphome+Renaming+Project">FMW 12c Shiphome Renaming Project</a></p>
+                    </div>
+                    <div class="comment-actions">
+                                                      <ul class="comment-actions-secondary">
+                                                                      <li class="first comment-permalink"><a title="Permanent link to this comment" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207275932#comment-5207275932"
+                id="comment-permalink-5207275932"                ><span>Permalink</span></a></li>
+            </ul>
+                                <ul class="comment-actions-primary">
+                                                                      <li class="first action-reply-comment"><a  href="/asengwiki/pages/replycomment.action?commentId=5207275932&amp;pageId=5204830457"
+                id="reply-comment-5207275932"                ><span>Reply</span></a></li>
+                                                                      <li class=" comment-date"><a title="Mar 11, 2016 11:17" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207275932#comment-5207275932"
+                              ><span>Mar 11, 2016</span></a></li>
+            </ul>
+                      </div>
+                </div>
+            </div>
+
+            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207275932#comment-5207275932"
+    dc:identifier="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207275932#comment-5207275932"
+    dc:title="FMW 12.2.1.1.0 Shiphome Announcements to QA"
+    trackback:ping="http://aseng-wiki.us.oracle.com/asengwiki/rpc/trackback/5207275932"/>
+</rdf:RDF>
+-->
+
+                    
+                                </li>
+                                </ol>
+                        </li>
+                        <li id="comment-thread-5207279116" class="comment-thread">
+                    <div class="comment  " id="comment-5207279116">
+                <p class="comment-user-logo">
+                    <a  class="userLogoLink" data-username="neil_budd" href="    /asengwiki/display/~neil_budd
+">
+               <img class="userLogo logo" src="/asengwiki/images/icons/profilepics/default.png"
+               alt="User icon: neil_budd" title="neil_budd">
+           </a>                </p>
+                <div class="comment-header">
+                    <h4 class="author">    <a href="    /asengwiki/display/~neil_budd
+"
+                       class="url fn confluence-userlink" data-username="neil_budd"
+                            >neil_budd</a></h4>
+                </div>
+                <div class="comment-body">
+                    <div class="comment-content wiki-content">
+                        <p>Looking under /ade_autofs/gd17_fmw/ASKERNEL_12.2.1.1.0_GENERIC.rdd/<strong>160313.1043.169.S</strong>/askernel/shiphome there is no longer a wls_jrf_generic.jar file.</p><p>Which new fmw_12.2.1.1.0_*** file should I be using for edq installs which need jrf?</p><p>I was expecting a fmw_12.2.1.1.0_wls_jrf_generic.jar file to be available.</p>
+                    </div>
+                    <div class="comment-actions">
+                                                      <ul class="comment-actions-secondary">
+                                                                      <li class="first comment-permalink"><a title="Permanent link to this comment" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207279116#comment-5207279116"
+                id="comment-permalink-5207279116"                ><span>Permalink</span></a></li>
+            </ul>
+                                <ul class="comment-actions-primary">
+                                                                      <li class="first action-reply-comment"><a  href="/asengwiki/pages/replycomment.action?commentId=5207279116&amp;pageId=5204830457"
+                id="reply-comment-5207279116"                ><span>Reply</span></a></li>
+                                                                      <li class=" comment-date"><a title="Mar 14, 2016 08:10" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207279116#comment-5207279116"
+                              ><span>Mar 14, 2016</span></a></li>
+            </ul>
+                      </div>
+                </div>
+            </div>
+
+            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207279116#comment-5207279116"
+    dc:identifier="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207279116#comment-5207279116"
+    dc:title="FMW 12.2.1.1.0 Shiphome Announcements to QA"
+    trackback:ping="http://aseng-wiki.us.oracle.com/asengwiki/rpc/trackback/5207279116"/>
+</rdf:RDF>
+-->
+
+                    
+                                    <ol class="comment-threads">
+                                        <li id="comment-thread-5207279157" class="comment-thread">
+                    <div class="comment  " id="comment-5207279157">
+                <p class="comment-user-logo">
+                    <a  class="userLogoLink" data-username="omar_bellal" href="    /asengwiki/display/~omar_bellal
+">
+               <img class="userLogo logo" src="/asengwiki/images/icons/profilepics/default.png"
+               alt="User icon: omar_bellal" title="omar_bellal">
+           </a>                </p>
+                <div class="comment-header">
+                    <h4 class="author">    <a href="    /asengwiki/display/~omar_bellal
+"
+                       class="url fn confluence-userlink" data-username="omar_bellal"
+                            >omar_bellal</a></h4>
+                </div>
+                <div class="comment-body">
+                    <div class="comment-content wiki-content">
+                        <p>It has been renamed to: fmw_12.2.1.1.0_infrastructure_generic.jar</p><p> </p>
+                    </div>
+                    <div class="comment-actions">
+                                                      <ul class="comment-actions-secondary">
+                                                                      <li class="first comment-permalink"><a title="Permanent link to this comment" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207279157#comment-5207279157"
+                id="comment-permalink-5207279157"                ><span>Permalink</span></a></li>
+            </ul>
+                                <ul class="comment-actions-primary">
+                                                                      <li class="first action-reply-comment"><a  href="/asengwiki/pages/replycomment.action?commentId=5207279157&amp;pageId=5204830457"
+                id="reply-comment-5207279157"                ><span>Reply</span></a></li>
+                                                                      <li class=" comment-date"><a title="Mar 14, 2016 08:22" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207279157#comment-5207279157"
+                              ><span>Mar 14, 2016</span></a></li>
+            </ul>
+                      </div>
+                </div>
+            </div>
+
+            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207279157#comment-5207279157"
+    dc:identifier="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207279157#comment-5207279157"
+    dc:title="FMW 12.2.1.1.0 Shiphome Announcements to QA"
+    trackback:ping="http://aseng-wiki.us.oracle.com/asengwiki/rpc/trackback/5207279157"/>
+</rdf:RDF>
+-->
+
+                    
+                                </li>
+                                </ol>
+                        </li>
+                        <li id="comment-thread-5207281472" class="comment-thread">
+                    <div class="comment  " id="comment-5207281472">
+                <p class="comment-user-logo">
+                    <a  class="userLogoLink" data-username="omar_bellal" href="    /asengwiki/display/~omar_bellal
+">
+               <img class="userLogo logo" src="/asengwiki/images/icons/profilepics/default.png"
+               alt="User icon: omar_bellal" title="omar_bellal">
+           </a>                </p>
+                <div class="comment-header">
+                    <h4 class="author">    <a href="    /asengwiki/display/~omar_bellal
+"
+                       class="url fn confluence-userlink" data-username="omar_bellal"
+                            >omar_bellal</a></h4>
+                </div>
+                <div class="comment-body">
+                    <div class="comment-content wiki-content">
+                        <p>Stage6:</p><p>ls: /ade_autofs/gd12_fmw/ASCORE_12.2.1.1.0_LINUX.X64.rdd/160314.0945.214.S/ascore/shiphome/ohs_linux64.bin: No such file or directory</p>
+                    </div>
+                    <div class="comment-actions">
+                                                      <ul class="comment-actions-secondary">
+                                                                      <li class="first comment-permalink"><a title="Permanent link to this comment" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207281472#comment-5207281472"
+                id="comment-permalink-5207281472"                ><span>Permalink</span></a></li>
+            </ul>
+                                <ul class="comment-actions-primary">
+                                                                      <li class="first action-reply-comment"><a  href="/asengwiki/pages/replycomment.action?commentId=5207281472&amp;pageId=5204830457"
+                id="reply-comment-5207281472"                ><span>Reply</span></a></li>
+                                                                      <li class=" comment-date"><a title="Mar 14, 2016 21:55" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207281472#comment-5207281472"
+                              ><span>Mar 14, 2016</span></a></li>
+            </ul>
+                      </div>
+                </div>
+            </div>
+
+            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207281472#comment-5207281472"
+    dc:identifier="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207281472#comment-5207281472"
+    dc:title="FMW 12.2.1.1.0 Shiphome Announcements to QA"
+    trackback:ping="http://aseng-wiki.us.oracle.com/asengwiki/rpc/trackback/5207281472"/>
+</rdf:RDF>
+-->
+
+                    
+                                    <ol class="comment-threads">
+                                        <li id="comment-thread-5207286382" class="comment-thread">
+                    <div class="comment  " id="comment-5207286382">
+                <p class="comment-user-logo">
+                    <a  class="userLogoLink" data-username="gopi_challa" href="    /asengwiki/display/~gopi_challa
+">
+               <img class="userLogo logo" src="/asengwiki/images/icons/profilepics/default.png"
+               alt="User icon: gopi_challa" title="gopi_challa">
+           </a>                </p>
+                <div class="comment-header">
+                    <h4 class="author">    <a href="    /asengwiki/display/~gopi_challa
+"
+                       class="url fn confluence-userlink" data-username="gopi_challa"
+                            >gopi_challa</a></h4>
+                </div>
+                <div class="comment-body">
+                    <div class="comment-content wiki-content">
+                        <p>Shiphome name is changed.</p><p>/ade_autofs/gd12_fmw/ASCORE_12.2.1.1.0_LINUX.X64.rdd/160314.0945.214.S/ascore/shiphome/fmw_12.2.1.1.0_ohs_linux64.bin</p>
+                    </div>
+                    <div class="comment-actions">
+                                                      <ul class="comment-actions-secondary">
+                                                                      <li class="first comment-permalink"><a title="Permanent link to this comment" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207286382#comment-5207286382"
+                id="comment-permalink-5207286382"                ><span>Permalink</span></a></li>
+            </ul>
+                                <ul class="comment-actions-primary">
+                                                                      <li class="first action-reply-comment"><a  href="/asengwiki/pages/replycomment.action?commentId=5207286382&amp;pageId=5204830457"
+                id="reply-comment-5207286382"                ><span>Reply</span></a></li>
+                                                                      <li class=" comment-date"><a title="Mar 16, 2016 03:21" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207286382#comment-5207286382"
+                              ><span>Mar 16, 2016</span></a></li>
+            </ul>
+                      </div>
+                </div>
+            </div>
+
+            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207286382#comment-5207286382"
+    dc:identifier="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207286382#comment-5207286382"
+    dc:title="FMW 12.2.1.1.0 Shiphome Announcements to QA"
+    trackback:ping="http://aseng-wiki.us.oracle.com/asengwiki/rpc/trackback/5207286382"/>
+</rdf:RDF>
+-->
+
+                    
+                                </li>
+                                </ol>
+                        </li>
+                        <li id="comment-thread-5207281657" class="comment-thread">
+                    <div class="comment  " id="comment-5207281657">
+                <p class="comment-user-logo">
+                    <a  class="userLogoLink" data-username="basavaraja_allundi" href="    /asengwiki/display/~basavaraja_allundi
+">
+               <img class="userLogo logo" src="/asengwiki/images/icons/profilepics/default.png"
+               alt="User icon: basavaraja_allundi" title="basavaraja_allundi">
+           </a>                </p>
+                <div class="comment-header">
+                    <h4 class="author">    <a href="    /asengwiki/display/~basavaraja_allundi
+"
+                       class="url fn confluence-userlink" data-username="basavaraja_allundi"
+                            >Basavaraja Allundi</a></h4>
+                </div>
+                <div class="comment-body">
+                    <div class="comment-content wiki-content">
+                        <p>Stage-6 SOA labels for Windows has stage-5 Label.Please update the Windows label with the correct Label.</p>
+                    </div>
+                    <div class="comment-actions">
+                                                      <ul class="comment-actions-secondary">
+                                                                      <li class="first comment-permalink"><a title="Permanent link to this comment" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207281657#comment-5207281657"
+                id="comment-permalink-5207281657"                ><span>Permalink</span></a></li>
+            </ul>
+                                <ul class="comment-actions-primary">
+                                                                      <li class="first action-reply-comment"><a  href="/asengwiki/pages/replycomment.action?commentId=5207281657&amp;pageId=5204830457"
+                id="reply-comment-5207281657"                ><span>Reply</span></a></li>
+                                                                      <li class=" comment-date"><a title="Mar 14, 2016 22:50" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207281657#comment-5207281657"
+                              ><span>Mar 14, 2016</span></a></li>
+            </ul>
+                      </div>
+                </div>
+            </div>
+
+            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207281657#comment-5207281657"
+    dc:identifier="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207281657#comment-5207281657"
+    dc:title="FMW 12.2.1.1.0 Shiphome Announcements to QA"
+    trackback:ping="http://aseng-wiki.us.oracle.com/asengwiki/rpc/trackback/5207281657"/>
+</rdf:RDF>
+-->
+
+                    
+                                </li>
+                        <li id="comment-thread-5207281718" class="comment-thread">
+                    <div class="comment  " id="comment-5207281718">
+                <p class="comment-user-logo">
+                    <a  class="userLogoLink" data-username="basavaraja_allundi" href="    /asengwiki/display/~basavaraja_allundi
+">
+               <img class="userLogo logo" src="/asengwiki/images/icons/profilepics/default.png"
+               alt="User icon: basavaraja_allundi" title="basavaraja_allundi">
+           </a>                </p>
+                <div class="comment-header">
+                    <h4 class="author">    <a href="    /asengwiki/display/~basavaraja_allundi
+"
+                       class="url fn confluence-userlink" data-username="basavaraja_allundi"
+                            >Basavaraja Allundi</a></h4>
+                </div>
+                <div class="comment-body">
+                    <div class="comment-content wiki-content">
+                        <p>Manifest mentioned for stag-6 SOA is incomplete.Please add  :pom at the end.</p>
+                    </div>
+                    <div class="comment-actions">
+                                                      <ul class="comment-actions-secondary">
+                                                                      <li class="first comment-permalink"><a title="Permanent link to this comment" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207281718#comment-5207281718"
+                id="comment-permalink-5207281718"                ><span>Permalink</span></a></li>
+            </ul>
+                                <ul class="comment-actions-primary">
+                                                                      <li class="first action-reply-comment"><a  href="/asengwiki/pages/replycomment.action?commentId=5207281718&amp;pageId=5204830457"
+                id="reply-comment-5207281718"                ><span>Reply</span></a></li>
+                                                                      <li class=" comment-date"><a title="Mar 14, 2016 23:06" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207281718#comment-5207281718"
+                              ><span>Mar 14, 2016</span></a></li>
+            </ul>
+                      </div>
+                </div>
+            </div>
+
+            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207281718#comment-5207281718"
+    dc:identifier="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207281718#comment-5207281718"
+    dc:title="FMW 12.2.1.1.0 Shiphome Announcements to QA"
+    trackback:ping="http://aseng-wiki.us.oracle.com/asengwiki/rpc/trackback/5207281718"/>
+</rdf:RDF>
+-->
+
+                    
+                                </li>
+                        <li id="comment-thread-5207282220" class="comment-thread">
+                    <div class="comment  " id="comment-5207282220">
+                <p class="comment-user-logo">
+                    <a  class="userLogoLink" data-username="sarath_babu" href="    /asengwiki/display/~sarath_babu
+">
+               <img class="userLogo logo" src="/asengwiki/images/icons/profilepics/default.png"
+               alt="User icon: sarath_babu" title="sarath_babu">
+           </a>                </p>
+                <div class="comment-header">
+                    <h4 class="author">    <a href="    /asengwiki/display/~sarath_babu
+"
+                       class="url fn confluence-userlink" data-username="sarath_babu"
+                            >sarath_babu</a></h4>
+                </div>
+                <div class="comment-body">
+                    <div class="comment-content wiki-content">
+                        <p>Shiphome names got changed for otd and ohs, so access the shiphome as follows</p><p> </p><p>/ade_autofs/gd12_fmw/ASCORE_12.2.1.1.0_LINUX.X64.rdd/160314.0945.214.S/ascore/shiphome/fmw_12.2.1.1.0_otd_linux64.bin</p><p>/ade_autofs/gd12_fmw/ASCORE_12.2.1.1.0_LINUX.X64.rdd/160314.0945.214.S/ascore/shiphome/fmw_12.2.1.1.0_ohs_linux64.bin</p>
+                    </div>
+                    <div class="comment-actions">
+                                                      <ul class="comment-actions-secondary">
+                                                                      <li class="first comment-permalink"><a title="Permanent link to this comment" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207282220#comment-5207282220"
+                id="comment-permalink-5207282220"                ><span>Permalink</span></a></li>
+            </ul>
+                                <ul class="comment-actions-primary">
+                                                                      <li class="first action-reply-comment"><a  href="/asengwiki/pages/replycomment.action?commentId=5207282220&amp;pageId=5204830457"
+                id="reply-comment-5207282220"                ><span>Reply</span></a></li>
+                                                                      <li class=" comment-date"><a title="Mar 15, 2016 01:46" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207282220#comment-5207282220"
+                              ><span>Mar 15, 2016</span></a></li>
+            </ul>
+                      </div>
+                </div>
+            </div>
+
+            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207282220#comment-5207282220"
+    dc:identifier="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207282220#comment-5207282220"
+    dc:title="FMW 12.2.1.1.0 Shiphome Announcements to QA"
+    trackback:ping="http://aseng-wiki.us.oracle.com/asengwiki/rpc/trackback/5207282220"/>
+</rdf:RDF>
+-->
+
+                    
+                                </li>
+                        <li id="comment-thread-5207282676" class="comment-thread">
+                    <div class="comment  " id="comment-5207282676">
+                <p class="comment-user-logo">
+                    <a  class="userLogoLink" data-username="kiran_dindi" href="    /asengwiki/display/~kiran_dindi
+">
+               <img class="userLogo logo" src="/asengwiki/images/icons/profilepics/default.png"
+               alt="User icon: kiran_dindi" title="kiran_dindi">
+           </a>                </p>
+                <div class="comment-header">
+                    <h4 class="author">    <a href="    /asengwiki/display/~kiran_dindi
+"
+                       class="url fn confluence-userlink" data-username="kiran_dindi"
+                            >Kiran Dindi</a></h4>
+                </div>
+                <div class="comment-body">
+                    <div class="comment-content wiki-content">
+                        <p>Stage 6:</p><p>ls: /ade_autofs/gd14_fmw/SOA_12.2.1.1.0_GENERIC.rdd/160313.0500.177.S/soa/shiphome: No such file or directory</p>
+                    </div>
+                    <div class="comment-actions">
+                                                      <ul class="comment-actions-secondary">
+                                                                      <li class="first comment-permalink"><a title="Permanent link to this comment" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207282676#comment-5207282676"
+                id="comment-permalink-5207282676"                ><span>Permalink</span></a></li>
+            </ul>
+                                <ul class="comment-actions-primary">
+                                                                      <li class="first action-reply-comment"><a  href="/asengwiki/pages/replycomment.action?commentId=5207282676&amp;pageId=5204830457"
+                id="reply-comment-5207282676"                ><span>Reply</span></a></li>
+                                                                      <li class=" comment-date"><a title="Mar 15, 2016 04:06" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207282676#comment-5207282676"
+                              ><span>Mar 15, 2016</span></a></li>
+            </ul>
+                      </div>
+                </div>
+            </div>
+
+            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207282676#comment-5207282676"
+    dc:identifier="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207282676#comment-5207282676"
+    dc:title="FMW 12.2.1.1.0 Shiphome Announcements to QA"
+    trackback:ping="http://aseng-wiki.us.oracle.com/asengwiki/rpc/trackback/5207282676"/>
+</rdf:RDF>
+-->
+
+                    
+                                    <ol class="comment-threads">
+                                        <li id="comment-thread-5207282749" class="comment-thread">
+                    <div class="comment  " id="comment-5207282749">
+                <p class="comment-user-logo">
+                    <a  class="userLogoLink" data-username="kiran_dindi" href="    /asengwiki/display/~kiran_dindi
+">
+               <img class="userLogo logo" src="/asengwiki/images/icons/profilepics/default.png"
+               alt="User icon: kiran_dindi" title="kiran_dindi">
+           </a>                </p>
+                <div class="comment-header">
+                    <h4 class="author">    <a href="    /asengwiki/display/~kiran_dindi
+"
+                       class="url fn confluence-userlink" data-username="kiran_dindi"
+                            >Kiran Dindi</a></h4>
+                </div>
+                <div class="comment-body">
+                    <div class="comment-content wiki-content">
+                        <p>Shiphomes folder name is</p><p>/ade_autofs/adc_gd14_fmw/SOA_12.2.1.1.0_GENERIC.rdd/160313.0500.177.S/soa/shiphome</p>
+                    </div>
+                    <div class="comment-actions">
+                                                      <ul class="comment-actions-secondary">
+                                                                      <li class="first comment-permalink"><a title="Permanent link to this comment" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207282749#comment-5207282749"
+                id="comment-permalink-5207282749"                ><span>Permalink</span></a></li>
+            </ul>
+                                <ul class="comment-actions-primary">
+                                                                      <li class="first action-reply-comment"><a  href="/asengwiki/pages/replycomment.action?commentId=5207282749&amp;pageId=5204830457"
+                id="reply-comment-5207282749"                ><span>Reply</span></a></li>
+                                                                      <li class=" comment-date"><a title="Mar 15, 2016 04:34" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207282749#comment-5207282749"
+                              ><span>Mar 15, 2016</span></a></li>
+            </ul>
+                      </div>
+                </div>
+            </div>
+
+            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207282749#comment-5207282749"
+    dc:identifier="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207282749#comment-5207282749"
+    dc:title="FMW 12.2.1.1.0 Shiphome Announcements to QA"
+    trackback:ping="http://aseng-wiki.us.oracle.com/asengwiki/rpc/trackback/5207282749"/>
+</rdf:RDF>
+-->
+
+                    
+                                </li>
+                                </ol>
+                        </li>
+                        <li id="comment-thread-5207282985" class="comment-thread">
+                    <div class="comment  " id="comment-5207282985">
+                <p class="comment-user-logo">
+                    <a  class="userLogoLink" data-username="anandaprakash_sivasubramanian" href="    /asengwiki/display/~anandaprakash_sivasubramanian
+">
+               <img class="userLogo logo" src="/asengwiki/images/icons/profilepics/default.png"
+               alt="User icon: anandaprakash_sivasubramanian" title="anandaprakash_sivasubramanian">
+           </a>                </p>
+                <div class="comment-header">
+                    <h4 class="author">    <a href="    /asengwiki/display/~anandaprakash_sivasubramanian
+"
+                       class="url fn confluence-userlink" data-username="anandaprakash_sivasubramanian"
+                            >anandaprakash_sivasubramanian</a></h4>
+                </div>
+                <div class="comment-body">
+                    <div class="comment-content wiki-content">
+                        <p>shiphome names changed for IDM. Needs update</p><p>New names:</p><p>fmw_12.2.1.1.0_idm_generic*.jar   fmw_12.2.1.1.0_oud_generic.jar</p>
+                    </div>
+                    <div class="comment-actions">
+                                                      <ul class="comment-actions-secondary">
+                                                                      <li class="first comment-permalink"><a title="Permanent link to this comment" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207282985#comment-5207282985"
+                id="comment-permalink-5207282985"                ><span>Permalink</span></a></li>
+            </ul>
+                                <ul class="comment-actions-primary">
+                                                                      <li class="first action-reply-comment"><a  href="/asengwiki/pages/replycomment.action?commentId=5207282985&amp;pageId=5204830457"
+                id="reply-comment-5207282985"                ><span>Reply</span></a></li>
+                                                                      <li class=" comment-date"><a title="Mar 15, 2016 06:41" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207282985#comment-5207282985"
+                              ><span>Mar 15, 2016</span></a></li>
+            </ul>
+                      </div>
+                </div>
+            </div>
+
+            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207282985#comment-5207282985"
+    dc:identifier="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207282985#comment-5207282985"
+    dc:title="FMW 12.2.1.1.0 Shiphome Announcements to QA"
+    trackback:ping="http://aseng-wiki.us.oracle.com/asengwiki/rpc/trackback/5207282985"/>
+</rdf:RDF>
+-->
+
+                    
+                                </li>
+                        <li id="comment-thread-5207876863" class="comment-thread">
+                    <div class="comment  " id="comment-5207876863">
+                <p class="comment-user-logo">
+                    <a  class="userLogoLink" data-username="basavaraja_allundi" href="    /asengwiki/display/~basavaraja_allundi
+">
+               <img class="userLogo logo" src="/asengwiki/images/icons/profilepics/default.png"
+               alt="User icon: basavaraja_allundi" title="basavaraja_allundi">
+           </a>                </p>
+                <div class="comment-header">
+                    <h4 class="author">    <a href="    /asengwiki/display/~basavaraja_allundi
+"
+                       class="url fn confluence-userlink" data-username="basavaraja_allundi"
+                            >Basavaraja Allundi</a></h4>
+                </div>
+                <div class="comment-body">
+                    <div class="comment-content wiki-content">
+                        <p>I have Removed space from SOA label.</p>
+                    </div>
+                    <div class="comment-actions">
+                                                      <ul class="comment-actions-secondary">
+                                                                      <li class="first comment-permalink"><a title="Permanent link to this comment" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207876863#comment-5207876863"
+                id="comment-permalink-5207876863"                ><span>Permalink</span></a></li>
+            </ul>
+                                <ul class="comment-actions-primary">
+                                                                      <li class="first action-reply-comment"><a  href="/asengwiki/pages/replycomment.action?commentId=5207876863&amp;pageId=5204830457"
+                id="reply-comment-5207876863"                ><span>Reply</span></a></li>
+                                                                      <li class=" comment-date"><a title="Mar 30, 2016 02:25" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207876863#comment-5207876863"
+                              ><span>Mar 30, 2016</span></a></li>
+            </ul>
+                      </div>
+                </div>
+            </div>
+
+            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207876863#comment-5207876863"
+    dc:identifier="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5207876863#comment-5207876863"
+    dc:title="FMW 12.2.1.1.0 Shiphome Announcements to QA"
+    trackback:ping="http://aseng-wiki.us.oracle.com/asengwiki/rpc/trackback/5207876863"/>
+</rdf:RDF>
+-->
+
+                    
+                                </li>
+                        <li id="comment-thread-5208413291" class="comment-thread">
+                    <div class="comment  " id="comment-5208413291">
+                <p class="comment-user-logo">
+                    <a  class="userLogoLink" data-username="basavaraja_allundi" href="    /asengwiki/display/~basavaraja_allundi
+">
+               <img class="userLogo logo" src="/asengwiki/images/icons/profilepics/default.png"
+               alt="User icon: basavaraja_allundi" title="basavaraja_allundi">
+           </a>                </p>
+                <div class="comment-header">
+                    <h4 class="author">    <a href="    /asengwiki/display/~basavaraja_allundi
+"
+                       class="url fn confluence-userlink" data-username="basavaraja_allundi"
+                            >Basavaraja Allundi</a></h4>
+                </div>
+                <div class="comment-body">
+                    <div class="comment-content wiki-content">
+                        <p>Added missing part( &quot;: pom&quot;) in the mentioned SOA manifest.</p>
+                    </div>
+                    <div class="comment-actions">
+                                                      <ul class="comment-actions-secondary">
+                                                                      <li class="first comment-permalink"><a title="Permanent link to this comment" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5208413291#comment-5208413291"
+                id="comment-permalink-5208413291"                ><span>Permalink</span></a></li>
+            </ul>
+                                <ul class="comment-actions-primary">
+                                                                      <li class="first action-reply-comment"><a  href="/asengwiki/pages/replycomment.action?commentId=5208413291&amp;pageId=5204830457"
+                id="reply-comment-5208413291"                ><span>Reply</span></a></li>
+                                                                      <li class=" comment-date"><a title="Apr 04, 2016 22:53" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5208413291#comment-5208413291"
+                              ><span>Apr 04, 2016</span></a></li>
+            </ul>
+                      </div>
+                </div>
+            </div>
+
+            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5208413291#comment-5208413291"
+    dc:identifier="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5208413291#comment-5208413291"
+    dc:title="FMW 12.2.1.1.0 Shiphome Announcements to QA"
+    trackback:ping="http://aseng-wiki.us.oracle.com/asengwiki/rpc/trackback/5208413291"/>
+</rdf:RDF>
+-->
+
+                    
+                                </li>
+                        <li id="comment-thread-5209494452" class="comment-thread">
+                    <div class="comment  " id="comment-5209494452">
+                <p class="comment-user-logo">
+                    <a  class="userLogoLink" data-username="venkateswarlu_karnati" href="    /asengwiki/display/~venkateswarlu_karnati
+">
+               <img class="userLogo logo" src="/asengwiki/images/icons/profilepics/default.png"
+               alt="User icon: venkateswarlu_karnati" title="venkateswarlu_karnati">
+           </a>                </p>
+                <div class="comment-header">
+                    <h4 class="author">    <a href="    /asengwiki/display/~venkateswarlu_karnati
+"
+                       class="url fn confluence-userlink" data-username="venkateswarlu_karnati"
+                            >Venkateswarlu Karnati</a></h4>
+                </div>
+                <div class="comment-body">
+                    <div class="comment-content wiki-content">
+                        <p>Stage 11 Forms &amp; Reports : </p><p>/ade_autofs/gd12_fmw/ASCLASSIC_12.2.1.1.0_LINUX.X64.rdd/160418.1500.341.S/asclassic/shiphome/fmw_12.2.1.1.0_fr_linux64.bin: No such file or directory.</p><p>Can someone please point me to the right path where I can access this shiphome ?</p><p> </p>
+                    </div>
+                    <div class="comment-actions">
+                                                      <ul class="comment-actions-secondary">
+                                                                      <li class="first comment-permalink"><a title="Permanent link to this comment" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209494452#comment-5209494452"
+                id="comment-permalink-5209494452"                ><span>Permalink</span></a></li>
+            </ul>
+                                <ul class="comment-actions-primary">
+                                                                      <li class="first action-reply-comment"><a  href="/asengwiki/pages/replycomment.action?commentId=5209494452&amp;pageId=5204830457"
+                id="reply-comment-5209494452"                ><span>Reply</span></a></li>
+                                                                      <li class=" comment-date"><a title="Apr 26, 2016 02:25" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209494452#comment-5209494452"
+                              ><span>Apr 26, 2016</span></a></li>
+            </ul>
+                      </div>
+                </div>
+            </div>
+
+            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209494452#comment-5209494452"
+    dc:identifier="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209494452#comment-5209494452"
+    dc:title="FMW 12.2.1.1.0 Shiphome Announcements to QA"
+    trackback:ping="http://aseng-wiki.us.oracle.com/asengwiki/rpc/trackback/5209494452"/>
+</rdf:RDF>
+-->
+
+                    
+                                </li>
+                        <li id="comment-thread-5209494465" class="comment-thread">
+                    <div class="comment  " id="comment-5209494465">
+                <p class="comment-user-logo">
+                    <a  class="userLogoLink" data-username="gopi_challa" href="    /asengwiki/display/~gopi_challa
+">
+               <img class="userLogo logo" src="/asengwiki/images/icons/profilepics/default.png"
+               alt="User icon: gopi_challa" title="gopi_challa">
+           </a>                </p>
+                <div class="comment-header">
+                    <h4 class="author">    <a href="    /asengwiki/display/~gopi_challa
+"
+                       class="url fn confluence-userlink" data-username="gopi_challa"
+                            >gopi_challa</a></h4>
+                </div>
+                <div class="comment-body">
+                    <div class="comment-content wiki-content">
+                        <p>Use</p><p>/ade_autofs/gd12_fmw/ASCLASSIC_12.2.1.1.0_LINUX.X64.rdd/160419.0442.342.S/asclassic/shiphome/fmw_12.2.1.1.0_fr_linux64.bin</p><p>or</p><p>/ade_autofs/gd12_fmw/ASCLASSIC_12.2.1.1.0_LINUX.X64.rdd/LATEST/asclassic/shiphome/fmw_12.2.1.1.0_fr_linux64.bin</p><p> </p>
+                    </div>
+                    <div class="comment-actions">
+                                                      <ul class="comment-actions-secondary">
+                                                                      <li class="first comment-permalink"><a title="Permanent link to this comment" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209494465#comment-5209494465"
+                id="comment-permalink-5209494465"                ><span>Permalink</span></a></li>
+            </ul>
+                                <ul class="comment-actions-primary">
+                                                                      <li class="first action-reply-comment"><a  href="/asengwiki/pages/replycomment.action?commentId=5209494465&amp;pageId=5204830457"
+                id="reply-comment-5209494465"                ><span>Reply</span></a></li>
+                                                                      <li class=" comment-date"><a title="Apr 26, 2016 02:28" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209494465#comment-5209494465"
+                              ><span>Apr 26, 2016</span></a></li>
+            </ul>
+                      </div>
+                </div>
+            </div>
+
+            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209494465#comment-5209494465"
+    dc:identifier="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209494465#comment-5209494465"
+    dc:title="FMW 12.2.1.1.0 Shiphome Announcements to QA"
+    trackback:ping="http://aseng-wiki.us.oracle.com/asengwiki/rpc/trackback/5209494465"/>
+</rdf:RDF>
+-->
+
+                    
+                                    <ol class="comment-threads">
+                                        <li id="comment-thread-5209494473" class="comment-thread">
+                    <div class="comment  " id="comment-5209494473">
+                <p class="comment-user-logo">
+                    <a  class="userLogoLink" data-username="venkateswarlu_karnati" href="    /asengwiki/display/~venkateswarlu_karnati
+">
+               <img class="userLogo logo" src="/asengwiki/images/icons/profilepics/default.png"
+               alt="User icon: venkateswarlu_karnati" title="venkateswarlu_karnati">
+           </a>                </p>
+                <div class="comment-header">
+                    <h4 class="author">    <a href="    /asengwiki/display/~venkateswarlu_karnati
+"
+                       class="url fn confluence-userlink" data-username="venkateswarlu_karnati"
+                            >Venkateswarlu Karnati</a></h4>
+                </div>
+                <div class="comment-body">
+                    <div class="comment-content wiki-content">
+                        <p>Thank you.</p>
+                    </div>
+                    <div class="comment-actions">
+                                                      <ul class="comment-actions-secondary">
+                                                                      <li class="first comment-permalink"><a title="Permanent link to this comment" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209494473#comment-5209494473"
+                id="comment-permalink-5209494473"                ><span>Permalink</span></a></li>
+            </ul>
+                                <ul class="comment-actions-primary">
+                                                                      <li class="first action-reply-comment"><a  href="/asengwiki/pages/replycomment.action?commentId=5209494473&amp;pageId=5204830457"
+                id="reply-comment-5209494473"                ><span>Reply</span></a></li>
+                                                                      <li class=" comment-date"><a title="Apr 26, 2016 02:30" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209494473#comment-5209494473"
+                              ><span>Apr 26, 2016</span></a></li>
+            </ul>
+                      </div>
+                </div>
+            </div>
+
+            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209494473#comment-5209494473"
+    dc:identifier="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209494473#comment-5209494473"
+    dc:title="FMW 12.2.1.1.0 Shiphome Announcements to QA"
+    trackback:ping="http://aseng-wiki.us.oracle.com/asengwiki/rpc/trackback/5209494473"/>
+</rdf:RDF>
+-->
+
+                    
+                                </li>
+                                </ol>
+                        </li>
+                        <li id="comment-thread-5209497714" class="comment-thread">
+                    <div class="comment  " id="comment-5209497714">
+                <p class="comment-user-logo">
+                    <a  class="userLogoLink" data-username="neil_budd" href="    /asengwiki/display/~neil_budd
+">
+               <img class="userLogo logo" src="/asengwiki/images/icons/profilepics/default.png"
+               alt="User icon: neil_budd" title="neil_budd">
+           </a>                </p>
+                <div class="comment-header">
+                    <h4 class="author">    <a href="    /asengwiki/display/~neil_budd
+"
+                       class="url fn confluence-userlink" data-username="neil_budd"
+                            >neil_budd</a></h4>
+                </div>
+                <div class="comment-body">
+                    <div class="comment-content wiki-content">
+                        <p>The JDK version has been updated to 8 u77 in Stage 12 but the link only takes you to versions 8 u74.</p>
+                    </div>
+                    <div class="comment-actions">
+                                                      <ul class="comment-actions-secondary">
+                                                                      <li class="first comment-permalink"><a title="Permanent link to this comment" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209497714#comment-5209497714"
+                id="comment-permalink-5209497714"                ><span>Permalink</span></a></li>
+            </ul>
+                                <ul class="comment-actions-primary">
+                                                                      <li class="first action-reply-comment"><a  href="/asengwiki/pages/replycomment.action?commentId=5209497714&amp;pageId=5204830457"
+                id="reply-comment-5209497714"                ><span>Reply</span></a></li>
+                                                                      <li class=" comment-date"><a title="Apr 27, 2016 01:42" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209497714#comment-5209497714"
+                              ><span>Apr 27, 2016</span></a></li>
+            </ul>
+                      </div>
+                </div>
+            </div>
+
+            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209497714#comment-5209497714"
+    dc:identifier="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209497714#comment-5209497714"
+    dc:title="FMW 12.2.1.1.0 Shiphome Announcements to QA"
+    trackback:ping="http://aseng-wiki.us.oracle.com/asengwiki/rpc/trackback/5209497714"/>
+</rdf:RDF>
+-->
+
+                    
+                                </li>
+                        <li id="comment-thread-5209497738" class="comment-thread">
+                    <div class="comment  " id="comment-5209497738">
+                <p class="comment-user-logo">
+                    <a  class="userLogoLink" data-username="neil_budd" href="    /asengwiki/display/~neil_budd
+">
+               <img class="userLogo logo" src="/asengwiki/images/icons/profilepics/default.png"
+               alt="User icon: neil_budd" title="neil_budd">
+           </a>                </p>
+                <div class="comment-header">
+                    <h4 class="author">    <a href="    /asengwiki/display/~neil_budd
+"
+                       class="url fn confluence-userlink" data-username="neil_budd"
+                            >neil_budd</a></h4>
+                </div>
+                <div class="comment-body">
+                    <div class="comment-content wiki-content">
+                        <p>The EDQ build isn't available under gd14_fmw. It should be 160426.0729.283.S but the latest build available is 160425.1812.282.S.</p>
+                    </div>
+                    <div class="comment-actions">
+                                                      <ul class="comment-actions-secondary">
+                                                                      <li class="first comment-permalink"><a title="Permanent link to this comment" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209497738#comment-5209497738"
+                id="comment-permalink-5209497738"                ><span>Permalink</span></a></li>
+            </ul>
+                                <ul class="comment-actions-primary">
+                                                                      <li class="first action-reply-comment"><a  href="/asengwiki/pages/replycomment.action?commentId=5209497738&amp;pageId=5204830457"
+                id="reply-comment-5209497738"                ><span>Reply</span></a></li>
+                                                                      <li class=" comment-date"><a title="Apr 27, 2016 01:49" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209497738#comment-5209497738"
+                              ><span>Apr 27, 2016</span></a></li>
+            </ul>
+                      </div>
+                </div>
+            </div>
+
+            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209497738#comment-5209497738"
+    dc:identifier="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209497738#comment-5209497738"
+    dc:title="FMW 12.2.1.1.0 Shiphome Announcements to QA"
+    trackback:ping="http://aseng-wiki.us.oracle.com/asengwiki/rpc/trackback/5209497738"/>
+</rdf:RDF>
+-->
+
+                    
+                                    <ol class="comment-threads">
+                                        <li id="comment-thread-5209498288" class="comment-thread">
+                    <div class="comment  " id="comment-5209498288">
+                <p class="comment-user-logo">
+                    <a  class="userLogoLink" data-username="neil_budd" href="    /asengwiki/display/~neil_budd
+">
+               <img class="userLogo logo" src="/asengwiki/images/icons/profilepics/default.png"
+               alt="User icon: neil_budd" title="neil_budd">
+           </a>                </p>
+                <div class="comment-header">
+                    <h4 class="author">    <a href="    /asengwiki/display/~neil_budd
+"
+                       class="url fn confluence-userlink" data-username="neil_budd"
+                            >neil_budd</a></h4>
+                </div>
+                <div class="comment-body">
+                    <div class="comment-content wiki-content">
+                        <p>The EDQ label has now appeared in gd14.</p>
+                    </div>
+                    <div class="comment-actions">
+                                                      <ul class="comment-actions-secondary">
+                                                                      <li class="first comment-permalink"><a title="Permanent link to this comment" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209498288#comment-5209498288"
+                id="comment-permalink-5209498288"                ><span>Permalink</span></a></li>
+            </ul>
+                                <ul class="comment-actions-primary">
+                                                                      <li class="first action-reply-comment"><a  href="/asengwiki/pages/replycomment.action?commentId=5209498288&amp;pageId=5204830457"
+                id="reply-comment-5209498288"                ><span>Reply</span></a></li>
+                                                                      <li class=" comment-date"><a title="Apr 27, 2016 05:24" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209498288#comment-5209498288"
+                              ><span>Apr 27, 2016</span></a></li>
+            </ul>
+                      </div>
+                </div>
+            </div>
+
+            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209498288#comment-5209498288"
+    dc:identifier="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209498288#comment-5209498288"
+    dc:title="FMW 12.2.1.1.0 Shiphome Announcements to QA"
+    trackback:ping="http://aseng-wiki.us.oracle.com/asengwiki/rpc/trackback/5209498288"/>
+</rdf:RDF>
+-->
+
+                    
+                                </li>
+                                </ol>
+                        </li>
+                        <li id="comment-thread-5209498747" class="comment-thread">
+                    <div class="comment  " id="comment-5209498747">
+                <p class="comment-user-logo">
+                    <a  class="userLogoLink" data-username="brian_j_casey" href="    /asengwiki/display/~brian_j_casey
+">
+               <img class="userLogo logo" src="/asengwiki/images/icons/profilepics/default.png"
+               alt="User icon: brian_j_casey" title="brian_j_casey">
+           </a>                </p>
+                <div class="comment-header">
+                    <h4 class="author">    <a href="    /asengwiki/display/~brian_j_casey
+"
+                       class="url fn confluence-userlink" data-username="brian_j_casey"
+                            >brian_j_casey</a></h4>
+                </div>
+                <div class="comment-body">
+                    <div class="comment-content wiki-content">
+                        <p>The link to JDK is wrong.  The text says <span class="nolink">http://jre.us.oracle.com/java/re/jdk/<u><strong>8u77</strong></u>/promoted/fcs/b02/bundles/,</span> but the link points to http://jre.us.oracle.com/java/re/jdk/<strong>8u74</strong>/promoted/fcs/b02/bundles/</p>
+                    </div>
+                    <div class="comment-actions">
+                                                      <ul class="comment-actions-secondary">
+                                                                      <li class="first comment-permalink"><a title="Permanent link to this comment" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209498747#comment-5209498747"
+                id="comment-permalink-5209498747"                ><span>Permalink</span></a></li>
+            </ul>
+                                <ul class="comment-actions-primary">
+                                                                      <li class="first action-reply-comment"><a  href="/asengwiki/pages/replycomment.action?commentId=5209498747&amp;pageId=5204830457"
+                id="reply-comment-5209498747"                ><span>Reply</span></a></li>
+                                                                      <li class=" comment-date"><a title="Apr 27, 2016 08:50" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209498747#comment-5209498747"
+                              ><span>Apr 27, 2016</span></a></li>
+            </ul>
+                      </div>
+                </div>
+            </div>
+
+            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209498747#comment-5209498747"
+    dc:identifier="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209498747#comment-5209498747"
+    dc:title="FMW 12.2.1.1.0 Shiphome Announcements to QA"
+    trackback:ping="http://aseng-wiki.us.oracle.com/asengwiki/rpc/trackback/5209498747"/>
+</rdf:RDF>
+-->
+
+                    
+                                </li>
+                        <li id="comment-thread-5209501169" class="comment-thread">
+                    <div class="comment  " id="comment-5209501169">
+                <p class="comment-user-logo">
+                    <a  class="userLogoLink" data-username="basavaraja_allundi" href="    /asengwiki/display/~basavaraja_allundi
+">
+               <img class="userLogo logo" src="/asengwiki/images/icons/profilepics/default.png"
+               alt="User icon: basavaraja_allundi" title="basavaraja_allundi">
+           </a>                </p>
+                <div class="comment-header">
+                    <h4 class="author">    <a href="    /asengwiki/display/~basavaraja_allundi
+"
+                       class="url fn confluence-userlink" data-username="basavaraja_allundi"
+                            >Basavaraja Allundi</a></h4>
+                </div>
+                <div class="comment-body">
+                    <div class="comment-content wiki-content">
+                        <p>I have edited and removed space from stage-12 SOA Linux label.</p>
+                    </div>
+                    <div class="comment-actions">
+                                                      <ul class="comment-actions-secondary">
+                                                                      <li class="first comment-permalink"><a title="Permanent link to this comment" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209501169#comment-5209501169"
+                id="comment-permalink-5209501169"                ><span>Permalink</span></a></li>
+            </ul>
+                                <ul class="comment-actions-primary">
+                                                                      <li class="first action-reply-comment"><a  href="/asengwiki/pages/replycomment.action?commentId=5209501169&amp;pageId=5204830457"
+                id="reply-comment-5209501169"                ><span>Reply</span></a></li>
+                                                                      <li class=" comment-date"><a title="Apr 28, 2016 03:12" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209501169#comment-5209501169"
+                              ><span>Apr 28, 2016</span></a></li>
+            </ul>
+                      </div>
+                </div>
+            </div>
+
+            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209501169#comment-5209501169"
+    dc:identifier="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209501169#comment-5209501169"
+    dc:title="FMW 12.2.1.1.0 Shiphome Announcements to QA"
+    trackback:ping="http://aseng-wiki.us.oracle.com/asengwiki/rpc/trackback/5209501169"/>
+</rdf:RDF>
+-->
+
+                    
+                                </li>
+                        <li id="comment-thread-5209510305" class="comment-thread">
+                    <div class="comment  " id="comment-5209510305">
+                <p class="comment-user-logo">
+                    <a  class="userLogoLink" data-username="subhash_singwal" href="    /asengwiki/display/~subhash_singwal
+">
+               <img class="userLogo logo" src="/asengwiki/images/icons/profilepics/default.png"
+               alt="User icon: subhash_singwal" title="subhash_singwal">
+           </a>                </p>
+                <div class="comment-header">
+                    <h4 class="author">    <a href="    /asengwiki/display/~subhash_singwal
+"
+                       class="url fn confluence-userlink" data-username="subhash_singwal"
+                            >Subhash Singwal</a></h4>
+                </div>
+                <div class="comment-body">
+                    <div class="comment-content wiki-content">
+                        <p>odi label <span style="color: rgb(0,0,0);"><strong><strong><strong>160502.0919.0297.S</strong></strong></strong></span> is not available.Please update it</p>
+                    </div>
+                    <div class="comment-actions">
+                                                      <ul class="comment-actions-secondary">
+                                                                      <li class="first comment-permalink"><a title="Permanent link to this comment" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209510305#comment-5209510305"
+                id="comment-permalink-5209510305"                ><span>Permalink</span></a></li>
+            </ul>
+                                <ul class="comment-actions-primary">
+                                                                      <li class="first action-reply-comment"><a  href="/asengwiki/pages/replycomment.action?commentId=5209510305&amp;pageId=5204830457"
+                id="reply-comment-5209510305"                ><span>Reply</span></a></li>
+                                                                      <li class=" comment-date"><a title="May 03, 2016 00:54" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209510305#comment-5209510305"
+                              ><span>May 03, 2016</span></a></li>
+            </ul>
+                      </div>
+                </div>
+            </div>
+
+            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209510305#comment-5209510305"
+    dc:identifier="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209510305#comment-5209510305"
+    dc:title="FMW 12.2.1.1.0 Shiphome Announcements to QA"
+    trackback:ping="http://aseng-wiki.us.oracle.com/asengwiki/rpc/trackback/5209510305"/>
+</rdf:RDF>
+-->
+
+                    
+                                    <ol class="comment-threads">
+                                        <li id="comment-thread-5209510404" class="comment-thread">
+                    <div class="comment  " id="comment-5209510404">
+                <p class="comment-user-logo">
+                    <a  class="userLogoLink" data-username="gopi_challa" href="    /asengwiki/display/~gopi_challa
+">
+               <img class="userLogo logo" src="/asengwiki/images/icons/profilepics/default.png"
+               alt="User icon: gopi_challa" title="gopi_challa">
+           </a>                </p>
+                <div class="comment-header">
+                    <h4 class="author">    <a href="    /asengwiki/display/~gopi_challa
+"
+                       class="url fn confluence-userlink" data-username="gopi_challa"
+                            >gopi_challa</a></h4>
+                </div>
+                <div class="comment-body">
+                    <div class="comment-content wiki-content">
+                        <p>bash-3.2$ ls /ade_autofs/gd14_fmw/ODIINT_12.2.1.1.0_GENERIC.rdd/160502.0919.297.S/odiint/shiphome/fmw_12.2.1.1.0_odi_*</p><p>/ade_autofs/gd14_fmw/ODIINT_12.2.1.1.0_GENERIC.rdd/160502.0919.297.S/odiint/shiphome/fmw_12.2.1.1.0_odi_generic.jar</p><p>/ade_autofs/gd14_fmw/ODIINT_12.2.1.1.0_GENERIC.rdd/160502.0919.297.S/odiint/shiphome/fmw_12.2.1.1.0_odi_generic2.jar</p>
+                    </div>
+                    <div class="comment-actions">
+                                                      <ul class="comment-actions-secondary">
+                                                                      <li class="first comment-permalink"><a title="Permanent link to this comment" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209510404#comment-5209510404"
+                id="comment-permalink-5209510404"                ><span>Permalink</span></a></li>
+            </ul>
+                                <ul class="comment-actions-primary">
+                                                                      <li class="first action-reply-comment"><a  href="/asengwiki/pages/replycomment.action?commentId=5209510404&amp;pageId=5204830457"
+                id="reply-comment-5209510404"                ><span>Reply</span></a></li>
+                                                                      <li class=" comment-date"><a title="May 03, 2016 01:45" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209510404#comment-5209510404"
+                              ><span>May 03, 2016</span></a></li>
+            </ul>
+                      </div>
+                </div>
+            </div>
+
+            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209510404#comment-5209510404"
+    dc:identifier="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5209510404#comment-5209510404"
+    dc:title="FMW 12.2.1.1.0 Shiphome Announcements to QA"
+    trackback:ping="http://aseng-wiki.us.oracle.com/asengwiki/rpc/trackback/5209510404"/>
+</rdf:RDF>
+-->
+
+                    
+                                </li>
+                                </ol>
+                        </li>
+                        <li id="comment-thread-5210610798" class="comment-thread">
+                    <div class="comment  " id="comment-5210610798">
+                <p class="comment-user-logo">
+                    <a  class="userLogoLink" data-username="stanley_jia" href="    /asengwiki/display/~stanley_jia
+">
+               <img class="userLogo logo" src="/asengwiki/images/icons/profilepics/default.png"
+               alt="User icon: stanley_jia" title="stanley_jia">
+           </a>                </p>
+                <div class="comment-header">
+                    <h4 class="author">    <a href="    /asengwiki/display/~stanley_jia
+"
+                       class="url fn confluence-userlink" data-username="stanley_jia"
+                            >Stanley Jia</a></h4>
+                </div>
+                <div class="comment-body">
+                    <div class="comment-content wiki-content">
+                        <p>When I try to install /ade_autofs/gd12_fmw/ASCORE_12.2.1.1.0_LINUX.X64.rdd/<strong>160509.2317.421.S</strong>/ascore/shiphome/fmw_12.2.1.1.0_ohs_linux64.bin</p><p>in collocated mode after I finished the wls installation.</p><p>pom exception always pops up at the final step of ohs installation.</p><p>oracle.sysman.oii.oiif.oiifb.OiifbEndIterateException: oracle.sysman.oii.oiif.oiifb.OiifbEndIterateException: com.oracle.cie.gdr.maven.PomException: Errors were found during POM generation.</p>
+                    </div>
+                    <div class="comment-actions">
+                                                      <ul class="comment-actions-secondary">
+                                                                      <li class="first comment-permalink"><a title="Permanent link to this comment" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5210610798#comment-5210610798"
+                id="comment-permalink-5210610798"                ><span>Permalink</span></a></li>
+            </ul>
+                                <ul class="comment-actions-primary">
+                                                                      <li class="first action-reply-comment"><a  href="/asengwiki/pages/replycomment.action?commentId=5210610798&amp;pageId=5204830457"
+                id="reply-comment-5210610798"                ><span>Reply</span></a></li>
+                                                                      <li class=" comment-date"><a title="May 10, 2016 19:44" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5210610798#comment-5210610798"
+                              ><span>May 10, 2016</span></a></li>
+            </ul>
+                      </div>
+                </div>
+            </div>
+
+            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5210610798#comment-5210610798"
+    dc:identifier="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5210610798#comment-5210610798"
+    dc:title="FMW 12.2.1.1.0 Shiphome Announcements to QA"
+    trackback:ping="http://aseng-wiki.us.oracle.com/asengwiki/rpc/trackback/5210610798"/>
+</rdf:RDF>
+-->
+
+                    
+                                </li>
+                        <li id="comment-thread-5211262159" class="comment-thread">
+                    <div class="comment  " id="comment-5211262159">
+                <p class="comment-user-logo">
+                    <a  class="userLogoLink" data-username="ke_xu" href="    /asengwiki/display/~ke_xu
+">
+               <img class="userLogo logo" src="/asengwiki/images/icons/profilepics/default.png"
+               alt="User icon: ke_xu" title="ke_xu">
+           </a>                </p>
+                <div class="comment-header">
+                    <h4 class="author">    <a href="    /asengwiki/display/~ke_xu
+"
+                       class="url fn confluence-userlink" data-username="ke_xu"
+                            >ke_xu</a></h4>
+                </div>
+                <div class="comment-body">
+                    <div class="comment-content wiki-content">
+                        <p>Fail to access   /ade_autofs/gd17_fmw/ASKERNEL_12.2.1.1.0_GENERIC.rdd/160522.0339.335.S/</p>
+                    </div>
+                    <div class="comment-actions">
+                                                      <ul class="comment-actions-secondary">
+                                                                      <li class="first comment-permalink"><a title="Permanent link to this comment" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5211262159#comment-5211262159"
+                id="comment-permalink-5211262159"                ><span>Permalink</span></a></li>
+            </ul>
+                                <ul class="comment-actions-primary">
+                                                                      <li class="first action-reply-comment"><a  href="/asengwiki/pages/replycomment.action?commentId=5211262159&amp;pageId=5204830457"
+                id="reply-comment-5211262159"                ><span>Reply</span></a></li>
+                                                                      <li class=" comment-date"><a title="May 23, 2016 18:12" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5211262159#comment-5211262159"
+                              ><span>May 23, 2016</span></a></li>
+            </ul>
+                      </div>
+                </div>
+            </div>
+
+            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5211262159#comment-5211262159"
+    dc:identifier="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5211262159#comment-5211262159"
+    dc:title="FMW 12.2.1.1.0 Shiphome Announcements to QA"
+    trackback:ping="http://aseng-wiki.us.oracle.com/asengwiki/rpc/trackback/5211262159"/>
+</rdf:RDF>
+-->
+
+                    
+                                </li>
+                        <li id="comment-thread-5211262506" class="comment-thread">
+                    <div class="comment  " id="comment-5211262506">
+                <p class="comment-user-logo">
+                    <a  class="userLogoLink" data-username="lakshminarayana_nagaraju" href="    /asengwiki/display/~lakshminarayana_nagaraju
+">
+               <img class="userLogo logo" src="/asengwiki/images/icons/profilepics/default.png"
+               alt="User icon: lakshminarayana_nagaraju" title="lakshminarayana_nagaraju">
+           </a>                </p>
+                <div class="comment-header">
+                    <h4 class="author">    <a href="    /asengwiki/display/~lakshminarayana_nagaraju
+"
+                       class="url fn confluence-userlink" data-username="lakshminarayana_nagaraju"
+                            >Lakshminarayana Nagaraju</a></h4>
+                </div>
+                <div class="comment-body">
+                    <div class="comment-content wiki-content">
+                        <p>Please let us know by when this build ( /ade_autofs/gd17_fmw/ASKERNEL_12.2.1.1.0_GENERIC.rdd/<strong>160522.0339.335.S</strong>) available for testing.</p><p> </p>
+                    </div>
+                    <div class="comment-actions">
+                                                      <ul class="comment-actions-secondary">
+                                                                      <li class="first comment-permalink"><a title="Permanent link to this comment" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5211262506#comment-5211262506"
+                id="comment-permalink-5211262506"                ><span>Permalink</span></a></li>
+            </ul>
+                                <ul class="comment-actions-primary">
+                                                                      <li class="first action-reply-comment"><a  href="/asengwiki/pages/replycomment.action?commentId=5211262506&amp;pageId=5204830457"
+                id="reply-comment-5211262506"                ><span>Reply</span></a></li>
+                                                                      <li class=" comment-date"><a title="May 23, 2016 22:12" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5211262506#comment-5211262506"
+                              ><span>May 23, 2016</span></a></li>
+            </ul>
+                      </div>
+                </div>
+            </div>
+
+            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5211262506#comment-5211262506"
+    dc:identifier="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5211262506#comment-5211262506"
+    dc:title="FMW 12.2.1.1.0 Shiphome Announcements to QA"
+    trackback:ping="http://aseng-wiki.us.oracle.com/asengwiki/rpc/trackback/5211262506"/>
+</rdf:RDF>
+-->
+
+                    
+                                </li>
+                        <li id="comment-thread-5211272005" class="comment-thread">
+                    <div class="comment  " id="comment-5211272005">
+                <p class="comment-user-logo">
+                    <a  class="userLogoLink" data-username="lakshminarayanan_padmanaban" href="    /asengwiki/display/~lakshminarayanan_padmanaban
+">
+               <img class="userLogo logo" src="/asengwiki/images/icons/profilepics/default.png"
+               alt="User icon: lakshminarayanan_padmanaban" title="lakshminarayanan_padmanaban">
+           </a>                </p>
+                <div class="comment-header">
+                    <h4 class="author">    <a href="    /asengwiki/display/~lakshminarayanan_padmanaban
+"
+                       class="url fn confluence-userlink" data-username="lakshminarayanan_padmanaban"
+                            >Lakshminarayanan Padmanaban</a></h4>
+                </div>
+                <div class="comment-body">
+                    <div class="comment-content wiki-content">
+                        <p>Stage Number for RC2 is not added to Sapphire.</p>
+                    </div>
+                    <div class="comment-actions">
+                                                      <ul class="comment-actions-secondary">
+                                                                      <li class="first comment-permalink"><a title="Permanent link to this comment" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5211272005#comment-5211272005"
+                id="comment-permalink-5211272005"                ><span>Permalink</span></a></li>
+            </ul>
+                                <ul class="comment-actions-primary">
+                                                                      <li class="first action-reply-comment"><a  href="/asengwiki/pages/replycomment.action?commentId=5211272005&amp;pageId=5204830457"
+                id="reply-comment-5211272005"                ><span>Reply</span></a></li>
+                                                                      <li class=" comment-date"><a title="May 26, 2016 23:52" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5211272005#comment-5211272005"
+                              ><span>May 26, 2016</span></a></li>
+            </ul>
+                      </div>
+                </div>
+            </div>
+
+            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5211272005#comment-5211272005"
+    dc:identifier="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5211272005#comment-5211272005"
+    dc:title="FMW 12.2.1.1.0 Shiphome Announcements to QA"
+    trackback:ping="http://aseng-wiki.us.oracle.com/asengwiki/rpc/trackback/5211272005"/>
+</rdf:RDF>
+-->
+
+                    
+                                </li>
+                        <li id="comment-thread-5211279445" class="comment-thread">
+                    <div class="comment  " id="comment-5211279445">
+                <p class="comment-user-logo">
+                    <a  class="userLogoLink" data-username="basavaraja_allundi" href="    /asengwiki/display/~basavaraja_allundi
+">
+               <img class="userLogo logo" src="/asengwiki/images/icons/profilepics/default.png"
+               alt="User icon: basavaraja_allundi" title="basavaraja_allundi">
+           </a>                </p>
+                <div class="comment-header">
+                    <h4 class="author">    <a href="    /asengwiki/display/~basavaraja_allundi
+"
+                       class="url fn confluence-userlink" data-username="basavaraja_allundi"
+                            >Basavaraja Allundi</a></h4>
+                </div>
+                <div class="comment-body">
+                    <div class="comment-content wiki-content">
+                        <p>Edited and removed the space from RC3 SOA Linux label.</p>
+                    </div>
+                    <div class="comment-actions">
+                                                      <ul class="comment-actions-secondary">
+                                                                      <li class="first comment-permalink"><a title="Permanent link to this comment" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5211279445#comment-5211279445"
+                id="comment-permalink-5211279445"                ><span>Permalink</span></a></li>
+            </ul>
+                                <ul class="comment-actions-primary">
+                                                                      <li class="first action-reply-comment"><a  href="/asengwiki/pages/replycomment.action?commentId=5211279445&amp;pageId=5204830457"
+                id="reply-comment-5211279445"                ><span>Reply</span></a></li>
+                                                                      <li class=" comment-date"><a title="May 31, 2016 21:39" href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5211279445#comment-5211279445"
+                              ><span>May 31, 2016</span></a></li>
+            </ul>
+                      </div>
+                </div>
+            </div>
+
+            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+         <rdf:Description
+    rdf:about="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5211279445#comment-5211279445"
+    dc:identifier="http://aseng-wiki.us.oracle.com/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?focusedCommentId=5211279445#comment-5211279445"
+    dc:title="FMW 12.2.1.1.0 Shiphome Announcements to QA"
+    trackback:ping="http://aseng-wiki.us.oracle.com/asengwiki/rpc/trackback/5211279445"/>
+</rdf:RDF>
+-->
+
+                    
+                                </li>
+                </ol>
+    
+            <div class="bottom-comment-panels comment-panels">
+                                    
+    
+
+                    
+    
+
+
+    
+
+<div class="quick-comment-container comment add"><p class="comment-user-logo"><a class="userLogoLink" data-username="dylan_yin" href="/asengwiki/users/editmyprofilepicture.action" title="Add a picture of yourself"><img class="userLogo logo defaultLogo" src="/asengwiki/s/en_GB-1988229788/4727/ffd10e10ff7bc0a1d7e29b4d2225707dd7f03d0b.5/_/images/icons/profilepics/add_profile_pic.png" alt="User icon: Add a picture of yourself"></a></p><div class="quick-comment-vertical-spacer"></div><div class="quick-comment-body"><div class="quick-comment-loading-container" style="display:none;"><p class="quick-comment-loading-message">Loading the Editor</p></div><div id="editor-messages"></div><div id="all-messages"></div><form style="display:block;" class="quick-comment-form aui" method="post" name="inlinecommentform" action="/asengwiki/pages/doaddcomment.action?pageId=5.204830457e9" ><div title="Add a Comment" class="quick-comment-prompt"><span>Write a comment…</span></div></form></div></div>
+
+    
+            </div>
+    
+                        <div id="comments-actions" class="aui-toolbar noprint">
+                <p class="toolbar-group">
+                    <span class="toolbar-item"><a href="/asengwiki/display/RM/FMW+12.2.1.1.0+Shiphome+Announcements+to+QA?showComments=true&amp;showCommentArea=true#addcomment" id="add-comment-rte" accesskey="m" class="toolbar-trigger full-load">Add Comment</a></span>
+                </p>
+            </div>
+            </div>
+
+
+            
+</div>
+
+
+    
+
+
+
+
+    
+    
+
+    
+    
+    
+
+
+    
+<div id="space-tools-web-items" class="hidden">
+                <div data-label="Overview" data-href="/asengwiki/spaces/viewspacesummary.action?key=RM">Overview</div>
+            <div data-label="Content Tools" data-href="/asengwiki/pages/reorderpages.action?key=RM">Content Tools</div>
+    </div>
+
+
+
+
+    </div><!-- \#main -->
+        
+    
+        
+            <div id="footer">
+
+    <section class="footer-body">
+
+                        
+    
+
+    <ul id="poweredby">
+        <li class="noprint">Powered by <a href="http://www.atlassian.com/software/confluence" class="hover-footer-link">Atlassian Confluence</a> <span id='footer-build-information'>5.4.1</span>, <a href="http://www.atlassian.com/software/confluence/overview/team-collaboration-software?utm_source=confluence-footer" class="hover-footer-link">Team Collaboration Software</a></li>
+        <li class="print-only">Printed by Atlassian Confluence 5.4.1, Team Collaboration Software.</li>
+        <li class="noprint"><a href="http://jira.atlassian.com/secure/BrowseProject.jspa?id=10470" class="hover-footer-link">Report a bug</a></li>
+        <li class="noprint"><a href="http://www.atlassian.com/about/connected.jsp?s_kwcid=Confluence-stayintouch" class="hover-footer-link">Atlassian News</a></li>
+    </ul>
+
+    
+
+            
+    
+    </section>
+
+</div>
+
+            
+    
+</div>
+
+</div><!-- \#full-height-container -->
+</div><!-- \#page -->
+</body>
+</html>
