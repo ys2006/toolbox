@@ -2,12 +2,17 @@
 use strict;
 use warnings;
 use utf8;
+use Cwd;
 
 undef $/;
 #Get local download version 
 my $ori_stage="";
 my $ori_shiphome="";
-open FR, 'version.txt' or die "open file failed : $!";
+
+my $wd = Cwd::getcwd();
+print $wd, "\n";
+
+open FR, $wd/'version.txt' or die "open file failed : $!";
 my $row = <FR>;
 ($ori_shiphome, $ori_stage) = split(/\n:/,$row);
 close FR;
