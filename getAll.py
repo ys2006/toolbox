@@ -37,8 +37,8 @@ def main(argv):
     anchors = root.xpath('//a')
     for anchor in anchors:
         if re.search('.rpm', anchor.text, re.M|re.I):
-            #print anchor.text
-            urlStr = url + '/' + anchor.text
+            print anchor.text
+            urlStr = url + '/' + 'getPackage' + '/' + anchor.text
             #outputF = currentDir + '/' + repo + '/' + anchor.text
             wget.download(urlStr, out=outputD)
             #r = requests.get(urlStr)
