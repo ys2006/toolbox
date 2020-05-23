@@ -20,7 +20,7 @@ ACTIVITY_TYPE = "scan"
 ASSET = "NULL"
 ts = datetime.datetime.now()
 connection = cx_Oracle.connect(
-    "usr1", "Welcome1", "infbjvm267.cn.oracle.com:1521/test")
+    "xx", "xxx", "xxx.com:1521/test")
 tblIdx = 6000  # start insert index
 
 invitorDict = {}
